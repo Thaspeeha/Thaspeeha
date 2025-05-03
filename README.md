@@ -4,14 +4,14 @@
 University of West London - RAK Branch  
 _Graduating in May 2026_
 
----
+
 
 ## 💡 About Me
 Aspiring software developer and AI enthusiast currently diving deep into the world of Computer Science. I come from a science background with a special focus on **Cybersecurity** which sparked my curiosity about **AI** and tech. My passion lies in learning by doing—through **hands-on projects**, **collaborative innovation challenges**, and **internships** that bring theory to life.
 
 🔍 Actively seeking **internships** to gain industry experience and expand my skill set in **AI**, **Software Development**, and **Cybersecurity**.
 
----
+
 
 ## 🧠 Skills
 
@@ -26,20 +26,20 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 ### 🌐 Languages
 - **English** (Advanced), **Tamil** (Native), **Arabic** (Elementary), **Hindi** (Elementary)
 
----
+
 
 ## 🏅 Certifications
 - 👩‍💻 **Python Developer Intern** – Nezuware Software Pvt. Ltd.
 - 🚀 **Innovation Challenge Program** – First Abu Dhabi Bank (FAB)
 - 🔐 **Cybersecurity Analyst** – Tata Job Simulation
 
----
+
 
 ## 🧑‍💼 Experience
 - **Python Developer Intern** – *Nezuware*, India (Remote) | Apr 2025  
 - **Cybersecurity Analyst Participant** – *TATA* Job Simulation | Mar 2025
 
----
+
 
 ## 🚀 Projects
 - 🎮 **Python Game** – Apr 2025  
@@ -58,19 +58,19 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 - ✍️ **Arabic Calligraphy Workshop** – Oct 2023  
 - 📜 **Commendation Certificate for Academic Excellence** – Mar 2014
 
----
+
 
 ## 📈 GitHub Stats
 ![Thaspeeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaspeeha&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaspeeha&layout=compact)
 
----
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/)  
-[![Email](https://img.shields.io/badge/Email-me-blue?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-me-blue?style=for-the-badge&logo=gmail)](mailto:vahithuthaspeeha@gmail.com)
 
----
+
 
 _“Learning never exhausts the mind.” – Leonardo da Vinci_
 
