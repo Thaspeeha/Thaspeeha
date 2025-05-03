@@ -2,7 +2,7 @@
 
 🎓 **BSc (Hons) Computer Science**  
 University of West London - RAK Branch  
-_Graduating in May 2026_
+
 
 
 
