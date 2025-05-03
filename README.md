@@ -23,22 +23,6 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 - Communication, Teamwork, Problem-Solving  
 - Adaptability, Analytical Thinking, Attention to Detail
 
-### 🌐 Languages
-- **English** (Advanced), **Tamil** (Native), **Arabic** (Elementary), **Hindi** (Elementary)
-
-
-
-## 🏅 Certifications
-- 👩‍💻 **Python Developer Intern** – Nezuware Software Pvt. Ltd.
-- 🚀 **Innovation Challenge Program** – First Abu Dhabi Bank (FAB)
-- 🔐 **Cybersecurity Analyst** – Tata Job Simulation
-
-
-
-## 🧑‍💼 Experience
-- **Python Developer Intern** – *Nezuware*, India (Remote) | Apr 2025  
-- **Cybersecurity Analyst Participant** – *TATA* Job Simulation | Mar 2025
-
 
 
 ## 🚀 Projects
@@ -47,16 +31,6 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 - 🛍️ **E-Commerce Website** *(In Progress)* – Apr 2025  
 - 🤖 **Artificial Intelligence Concepts** – Jan 2025  
 - 💻 **Programming Basics** – Jan 2024  
-
----
-
-## 🏆 Extracurricular Activities
-- 💡 **Payit Innovation Challenge Program** – *FAB*, Dec 2023  
-  _Proposed UX/UI improvements and marketing strategies for Payit app_
-
-- 🧠 **UAE National Abacus Champion** – *BrainoBrain Fest*, Dec 2015  
-- ✍️ **Arabic Calligraphy Workshop** – Oct 2023  
-- 📜 **Commendation Certificate for Academic Excellence** – Mar 2014
 
 
 
