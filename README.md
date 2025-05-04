@@ -29,7 +29,8 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 - 🎮 **Python Game** – Apr 2025  
 - 📱 **UI/UX App Development** *(In Progress)* 
 - 🛍️ **E-Commerce Website Development** *(In Progress)* 
-- 🤖 **Artificial Intelligence Concepts** – Jan 2025  
+- 🤖 **Artificial Intelligence Concepts** – Jan 2025
+- 🌐 **Mobile Web App Development** – Jan 2025  
 - 💻 **Programming Basics** – Jan 2024  
 
 
