@@ -7,9 +7,9 @@ University of West London - RAK Branch
 
 
 ## 💡 About Me
-Aspiring software developer and AI enthusiast currently diving deep into the world of Computer Science. I come from a science background, **Cybersecurity** sparked my curiosity about **AI** and **Software Development**. My passion lies in learning by doing—through **hands-on projects**, **collaborative innovation challenges**, and **internships** that bring theory to life.
+Aspiring software developer and AI enthusiast currently diving deep into the world of Computer Science. I come from a science background, interested and curious about **AI** and **Software Development**. My passion lies in learning by doing—through **hands-on projects**, **collaborative innovation challenges**, and **internships** that bring theory to life.
 
-🔍 Actively seeking **internships** to gain industry experience and expand my skill set in **AI**, **Software Development**, and **Cybersecurity**.
+🔍 Actively seeking **internships** to gain industry experience and expand my skill set in **AI**, **Software Development**.
 
 
 
