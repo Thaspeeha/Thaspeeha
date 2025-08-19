@@ -26,6 +26,8 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 
 ## 🚀 Projects
+- **MiniCart** – Aug 2025
+- **Age Calculator** – May 2025
 - 🎮 **Python Game** – Apr 2025  
 - 📱 **UI/UX App Development** - May 2025 
 - 🛍️ **E-Commerce Website Development** - May 2025
