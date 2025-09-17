@@ -27,6 +27,7 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 ## 🚀 Projects
 - **Payit App Features Pitch** – Coming Soon
+- **Personal Portfolio Website** – In development
 - **MiniCart** – Aug 2025
 - **Age Calculator** – May 2025
 - 🎮 **Python Game** – Apr 2025  
