@@ -23,23 +23,6 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 - Communication, Teamwork, Problem-Solving  
 - Adaptability, Analytical Thinking, Attention to Detail
 
-
-
-## 🚀 Projects
-- **🕶️☕ StarBrew Lens**
-- **Payit App Features Pitch** – Coming Soon
-- **Personal Portfolio Website** – Under development
-- **MiniCart** – Aug 2025
-- **Age Calculator** – May 2025
-- 🎮 **Python Game** – Apr 2025  
-- 📱 **UI/UX App Development** - May 2025 
-- 🛍️ **E-Commerce Website Development** - May 2025
-- 🤖 **Artificial Intelligence Concepts** – Jan 2025
-- 🌐 **Mobile Web App Development** – Jan 2025  
-- 💻 **Programming Basics** – Jan 2024  
-
-
-
 ## 📈 GitHub Stats
 ![Thaspeeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaspeeha&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaspeeha&layout=compact)
