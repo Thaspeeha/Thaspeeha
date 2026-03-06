@@ -23,6 +23,19 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 - Communication, Teamwork, Problem-Solving  
 - Adaptability, Analytical Thinking, Attention to Detail
 
+## 📂 Projects
+- Seha Quest
+- Nova Health
+- AR Experience Starbucks Project
+- E-commerce Web Development
+- Mini Cart
+- Mobile Web App Development
+- Programming Project
+- Artificial Intelligence
+- Payit App Features Pitch
+- Python Project
+- codealpha tasks (Age Calculator).
+
 ## 📈 GitHub Stats
 ![Thaspeeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaspeeha&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaspeeha&layout=compact)
