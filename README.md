@@ -19,15 +19,11 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 - **Languages:** Java (Intermediate), Python (Intermediate), Haskell (Basic), SQL (Basic)
 - **Tools & Platforms:** GitHub, Canva (Intermediate), PowerPoint, Word, Excel, Google Docs, Inshot (Beginner), Figma (Intermediate), Wix (Intermediate)
 
-### 🌟 Soft Skills
-- Communication, Teamwork, Problem-Solving  
-- Adaptability, Analytical Thinking, Attention to Detail
-
 ## 📂 Projects
 - Seha Quest
 - Nova Health
 - AR Experience Starbucks Project
-- E-commerce Web Development
+- E-Commerce Web Development
 - Mini Cart
 - Mobile Web App Development
 - Programming Project
