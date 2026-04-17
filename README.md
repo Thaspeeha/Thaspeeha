@@ -41,7 +41,7 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 </p>
 
-### 🤖 AI Tools & Platforms
+### AI Tools & Platforms
 
 <p align="left">
 
@@ -51,7 +51,7 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 </p>
 
-### 🎨 Design & Website Builders
+### Design & Website Builders
 
 <p align="left">
 
@@ -61,7 +61,7 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 </p>
 
-### 📋 Project Management Tools
+### Project Management Tools
 
 <p align="left">
 
@@ -70,7 +70,7 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 </p>
 
-### 📄 Productivity & Collaboration Tools
+### Productivity & Collaboration Tools
 
 <p align="left">
 
