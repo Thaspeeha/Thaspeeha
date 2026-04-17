@@ -51,6 +51,16 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 </p>
 
+## 🎨 Design & Website Builders
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wix/wix-original.svg" width="40"/>
+
+</p>
+
 ## 📂 Projects
 - Seha Quest
 - Nova Health
