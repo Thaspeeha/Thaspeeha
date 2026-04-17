@@ -61,6 +61,15 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 </p>
 
+### 📋 Project Management Tools
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickup/clickup-original.svg" width="40"/>
+
+</p>
+
 ## 📂 Projects
 - Seha Quest
 - Nova Health
