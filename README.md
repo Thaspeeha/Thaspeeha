@@ -7,8 +7,6 @@ University of West London - RAK Branch
 Aspiring software developer and AI enthusiast currently diving deep into the world of Computer Science. I come from a science background, interested and curious about **AI** and **Software Development**. My passion lies in learning by doing—through **hands-on projects**, **collaborative innovation challenges**, and **internships** that bring theory to life.
 
 ## 🧠 Skills
-
-### 💻 Technical Skills
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
