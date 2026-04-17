@@ -44,8 +44,8 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 <p align="left">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Stitch_Logo.png" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Perplexity_AI_logo.svg" width="40"/>
+<img src="https://img.shields.io/badge/Perplexity-AI-1C1C1C?logo=perplexity&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Stitch-AI%20Tool-4285F4?logo=google&logoColor=white" />
 
 </p>
 
