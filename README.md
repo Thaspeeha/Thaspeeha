@@ -57,7 +57,7 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Wix.com_website_logo.svg" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Wix.com_website_logo.svg" width="40"/>
 
 </p>
 
