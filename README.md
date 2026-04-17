@@ -19,9 +19,6 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-<img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" />
-<img src="https://img.shields.io/badge/Folium-77B829?logo=mapbox&logoColor=white" />
-<img src="https://img.shields.io/badge/NetworkX-Graph%20Analysis-1f77b4?logo=python&logoColor=white" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
