@@ -61,7 +61,7 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 </p>
 
-### Project Management Tools & Collaboration Tools
+### Project Management & Collaboration Tools
 
 <p align="left">
 
