@@ -39,6 +39,16 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 
 </p>
 
+## 🤖 AI Tools & Platforms
+
+<p align="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Stitch_Logo.png" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Perplexity_AI_logo.svg" width="40"/>
+
+</p>
+
 ## 📂 Projects
 - Seha Quest
 - Nova Health
