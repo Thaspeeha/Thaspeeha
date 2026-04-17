@@ -9,8 +9,26 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 ## 🧠 Skills
 
 ### 💻 Technical Skills
-- **Languages:** Java (Intermediate), Python (Intermediate), Haskell (Basic), SQL (Basic)
-- **Tools & Platforms:** GitHub, Canva (Intermediate), PowerPoint, Word, Excel, Google Docs, Inshot (Beginner), Figma (Intermediate), Wix (Intermediate)
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/Folium-77B829?logo=mapbox&logoColor=white" />
+<img src="https://img.shields.io/badge/NetworkX-Graph%20Analysis-1f77b4?logo=python&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
+
+</p>
 
 ## 📂 Projects
 - Seha Quest
