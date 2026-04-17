@@ -66,7 +66,7 @@ Aspiring software developer and AI enthusiast currently diving deep into the wor
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="40"/>
-<img src="https://img.shields.io/badge/ClickUp-Task%20Management-7B68EE?logo=clickup&logoColor=white" width="120"/>
+<img src="https://img.shields.io/badge/ClickUp-Task%20Management-7B68EE?logo=clickup&logoColor=white" width="160"/>
 
 </p>
 
