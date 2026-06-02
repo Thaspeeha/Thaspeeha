@@ -45,11 +45,8 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 </p>
 
 <p align="center">
-  <b>Libraries:</b> Pandas • NumPy • Scikit-Learn
-</p>
-
-<p align="center">
-  <b>Tools:</b> Google Colab • Canva • Trello • ClickUp • Oracle SQL Developer
+  <strong>Also experienced with:</strong><br>
+  Pandas • NumPy • Scikit-Learn • Google Colab • Oracle SQL Developer • Canva • Trello • ClickUp
 </p>
 
 ---
