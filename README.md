@@ -68,7 +68,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 |----------|-------------|
 | 🌱 **[Terra Quest](https://github.com/Thaspeeha/Terra-Quest)** | Gamified sustainability platform that turns eco-friendly actions into measurable environmental impact. |
 | 🌎 **[Anthos Terra](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)** | A web-based platform for monitoring, analyzing, and forecasting plant blooming events using NASA Earth observation data and other open datasets. |
-| 🌡️ **[Urban HeatLens](https://github.com/Thaspeeha/Urban-Heat)** | A data-driven urban analytics tool designed to visualize, predict, and mitigate Urban Heat Island (UHI) effects in dense urban regions such as Downtown Dubai. |
+| 🌡️ **[UAE HeatLens](https://github.com/Thaspeeha/Urban-Heat)** | A data-driven urban analytics tool designed to visualize, predict, and mitigate Urban Heat Island (UHI) effects in dense urban regions such as Downtown Dubai. |
 
 ---
 
