@@ -30,15 +30,11 @@ I enjoy transforming ideas into practical applications and collaborating with ot
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,tensorflow,pytorchreact,nextjs,fastapi,flask" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,html,css,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,firebase" />
 </p>
 
 <p>
