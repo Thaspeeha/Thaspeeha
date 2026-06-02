@@ -53,12 +53,6 @@ I enjoy transforming ideas into practical applications and collaborating with ot
 #### 🌱 TerraQuest
 A gamified sustainability platform that transforms everyday eco-friendly actions into measurable environmental impact.
 
-**Features**
-- Sustainability tracking
-- Environmental impact visualization
-- Gamified rewards system
-- Community engagement
-
 #### 🌎 Anthos Terra
 A sustainability-focused project designed to promote environmental awareness and responsible practices through technology.
 
