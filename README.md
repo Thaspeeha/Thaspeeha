@@ -34,15 +34,7 @@ I enjoy transforming ideas into practical applications and collaborating with ot
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,firebase" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,mongodb,git,github,vscode,androidstudio,figma" />
 </p>
 
 ---
