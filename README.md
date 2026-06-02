@@ -19,23 +19,17 @@
 
 ## 🚀 About Me
 
-🎓 **BSc (Hons) Computer Science**  
-📍 University of West London – RAK Branch
+🎓 Computer Science Student @ University of West London – RAK Branch
 
-I'm a Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**.
+Passionate about **AI**, **Machine Learning**, and **Software Development**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions through hands-on learning and hackathons.
 
-Coming from a science background, I became fascinated by how technology can solve real-world problems. Since then, I've been exploring AI, software engineering, and data-driven solutions through projects, hackathons, and continuous learning.
+### 🌱 Currently Exploring
 
-I enjoy transforming ideas into practical applications and collaborating with others to build innovative solutions.
-
-### 🌱 Currently Learning
-
-- Artificial Intelligence & Machine Learning
+- AI & Machine Learning
 - Full-Stack Development
-- FastAPI & Modern Web Frameworks
-- Data Analysis & Predictive Modeling
-- Software Engineering Best Practices
-
+- FastAPI
+- Data Science
+  
 ---
 
 ## 🛠️ Tech Stack
