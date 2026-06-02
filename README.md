@@ -56,22 +56,19 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 ### 🚀 Hackathons & Competitions
 
 - NASA Space Apps Challenge 2025
-- RAK EISC Competition
+- National Student Competition on Technology and Sustainability - RAK EISC 2026
 - Create Apps Championship 2025-26
 - AI Genesis 2025
-- MENA X Starbucks Student Hackathon 2025
+- MENA x Starbucks Student Hackathon 2025
 - Innovation Hackathon 2025
 
-### 🌍 Featured Projects
+## 🌍 Featured Projects
 
-#### 🌱 TerraQuest
-A gamified sustainability platform that transforms everyday eco-friendly actions into measurable environmental impact.
-
-#### 🌎 Anthos Terra
-A sustainability-focused project designed to promote environmental awareness and responsible practices through technology.
-
-#### 🌡️ Urban Heat Lens
-A data-driven project that analyzes urban heat patterns to support climate awareness and sustainable city planning.
+| Project | Description |
+|----------|-------------|
+| 🌱 **[TerraQuest](https://github.com/Thaspeeha/Terra-Quest)** | Gamified sustainability platform that turns eco-friendly actions into measurable environmental impact. |
+| 🌎 **[Anthos Terra](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)** | Sustainability-focused solution promoting environmental awareness through technology. |
+| 🌡️ **[Urban Heat Lens](https://github.com/Thaspeeha/Urban-Heat)** | Data-driven analysis and visualization of urban heat patterns for climate awareness. |
 
 ---
 
