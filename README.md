@@ -44,6 +44,14 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
   <img src="https://skillicons.dev/icons?i=html,css,firebase,mongodb,git,github,vscode,androidstudio,figma" />
 </p>
 
+<p align="center">
+  <b>Libraries:</b> Pandas • NumPy • Scikit-Learn
+</p>
+
+<p align="center">
+  <b>Tools:</b> Google Colab • Canva • Trello • ClickUp • Oracle SQL Developer
+</p>
+
 ---
 
 ## 🏆 Experience & Activities
