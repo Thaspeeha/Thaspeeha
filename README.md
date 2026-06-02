@@ -45,12 +45,6 @@ I enjoy transforming ideas into practical applications and collaborating with ot
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-
 ### Web Development
 
 <p>
@@ -63,20 +57,11 @@ I enjoy transforming ideas into practical applications and collaborating with ot
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-- Oracle Database
-- SQL Developer
-
 ### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
-
-- Google Colab
-- Canva
-- Trello
-- ClickUp
-
 ---
 
 ## 🏆 Experience & Activities
