@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Thaspeeha?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Thaspeeha?affiliations=OWNER&style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Thaspeeha&label=Profile+Views&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Thaspeeha?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Thaspeeha?affiliations=OWNER&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Thaspeeha&style=for-the-badge&color=blue" />
 </p>
 
 <p align="center">
