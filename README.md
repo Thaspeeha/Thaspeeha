@@ -4,6 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+AI+%26+Software+Engineer;AI+Enthusiast+%26+Builder;Always+Learning+Something+New+🚀" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thaspeeha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Developer-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon%20Participant-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-purple?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🚀 About Me
