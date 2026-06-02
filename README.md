@@ -74,10 +74,7 @@ A data-driven project that analyzes urban heat patterns to support climate aware
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thaspeeha&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaspeeha&layout=compact&theme=tokyonight" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaspeeha&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thaspeeha&theme=tokyonight" />
