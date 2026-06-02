@@ -29,9 +29,8 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 - AI & Machine Learning
 - Full-Stack Development
-- FastAPI
 - Data Science
-  
+- Technology & Sustainabiliy
 ---
 
 ## 🛠️ Tech Stack
