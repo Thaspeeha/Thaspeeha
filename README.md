@@ -55,10 +55,12 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 ### 🚀 Hackathons & Competitions
 
-- NASA Space Apps Challenge
-- EISC Innovation Competitions
-- University Innovation Challenges
-- Collaborative Team-Based Projects
+- NASA Space Apps Challenge 2025
+- RAK EISC Competition
+- Create Apps Championship 2025-26
+- AI Genesis 2025
+- MENA X Starbucks Student Hackathon 2025
+- Innovation Hackathon 2025
 
 ### 🌍 Featured Projects
 
