@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Student @ University of West London – RAK Branch
+🎓 Computer Science Student, University of West London – RAK Branch
 
 Passionate about **AI**, **Machine Learning**, and **Software Development**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions through hands-on learning and hackathons.
 
