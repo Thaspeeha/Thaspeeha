@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Enthusiast-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Software%20Developer-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackathon%20Participant-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon%20Innovator-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lifelong%20Learner-purple?style=for-the-badge" />
 </p>
 
