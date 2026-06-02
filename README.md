@@ -29,31 +29,21 @@ I enjoy transforming ideas into practical applications and collaborating with ot
 
 ## 🛠️ Tech Stack
 
-### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r" />
 </p>
-
-### AI & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### Web Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,html,css,firebase" />
 </p>
 
-### Databases
-
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
-
-### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
