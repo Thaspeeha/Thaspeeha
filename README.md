@@ -1,91 +1,168 @@
-# 👋 Hey Everyone! I'm Thaspeeha Vahithu
+# 👋 Hey, I'm Thaspeeha Vahithu
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+AI+%26+Software+Engineer;AI+Enthusiast+%26+Builder;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thaspeeha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
 
 🎓 **BSc (Hons) Computer Science**  
-University of West London - RAK Branch  
+📍 University of West London – RAK Branch
 
-## 💡 About Me
-Aspiring software developer and AI enthusiast currently diving deep into the world of Computer Science. I come from a science background, interested and curious about **AI** and **Software Development**. My passion lies in learning by doing—through **hands-on projects**, **collaborative innovation challenges**, and **internships** that bring theory to life.
+I'm a Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**.
 
-## 🧠 Skills
-<p align="left">
+Coming from a science background, I became fascinated by how technology can solve real-world problems. Since then, I've been exploring AI, software engineering, and data-driven solutions through projects, hackathons, and continuous learning.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+I enjoy transforming ideas into practical applications and collaborating with others to build innovative solutions.
 
+### 🌱 Currently Learning
 
+- Artificial Intelligence & Machine Learning
+- Full-Stack Development
+- FastAPI & Modern Web Frameworks
+- Data Analysis & Predictive Modeling
+- Software Engineering Best Practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r" />
 </p>
 
-<p align="left">
+### AI & Data Science
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="40"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### AI Tools & Platforms
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- PyTorch
 
-<p align="left">
+### Web Development
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/>
-<img src="https://img.shields.io/badge/Perplexity-AI-1C1C1C?logo=perplexity&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Stitch-AI%20Tool-4285F4?logo=google&logoColor=white" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,html,css,firebase" />
 </p>
 
-### Design & Website Builders
+### Databases
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Wix.com_website_logo.svg" width="40"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### Project Management & Collaboration Tools
+- Oracle Database
+- SQL Developer
 
-<p align="left">
+### Tools & Platforms
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="40"/>
-<img src="https://img.shields.io/badge/ClickUp-Task%20Management-7B68EE?logo=clickup&logoColor=white" width="180"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
 
-## 📈 GitHub Stats
-![Thaspeeha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaspeeha&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaspeeha&layout=compact)
+- Google Colab
+- Canva
+- Trello
+- ClickUp
 
+---
 
+## 🏆 Experience & Activities
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/)  
-[![Email](https://img.shields.io/badge/Email-me-blue?style=for-the-badge&logo=gmail)](mailto:vahithuthaspeeha@gmail.com)
+### 🚀 Hackathons & Competitions
 
+- NASA Space Apps Challenge
+- EISC Innovation Competitions
+- University Innovation Challenges
+- Collaborative Team-Based Projects
 
+### 🌍 Featured Projects
 
-_“Learning never exhausts the mind.” – Leonardo da Vinci_
+#### 🌱 TerraQuest
+A gamified sustainability platform that transforms everyday eco-friendly actions into measurable environmental impact.
 
+**Features**
+- Sustainability tracking
+- Environmental impact visualization
+- Gamified rewards system
+- Community engagement
 
+#### 🌎 Anthos Terra
+A sustainability-focused project designed to promote environmental awareness and responsible practices through technology.
+
+#### 🌡️ Urban Heat Lens
+A data-driven project that analyzes urban heat patterns to support climate awareness and sustainable city planning.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thaspeeha&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaspeeha&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thaspeeha&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thaspeeha&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 Goals for 2026
+
+- Build impactful AI and Machine Learning projects
+- Gain industry experience through internships
+- Strengthen software engineering fundamentals
+- Contribute to open-source projects
+- Continue learning emerging technologies
+- Grow as an AI and Software Engineer
+
+---
+
+## 💭 Fun Facts
+
+- 🤖 Curious about almost everything AI.
+- ☕ Debugging teaches patience better than meditation.
+- 🌙 Some of my best ideas appear late at night.
+- 🚀 Always excited to learn new technologies and build cool things.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:vahithuthaspeeha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learning never exhausts the mind."</i><br>
+  — Leonardo da Vinci
+</p>
