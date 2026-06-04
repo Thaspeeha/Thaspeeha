@@ -53,7 +53,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 ### 🚀 Hackathons & Competitions
 
-- NASA Space Apps Challenge 2025
+- **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Terra-Quest)**
 - National Student Competition on Technology and Sustainability - RAK EISC 2026
 - Create Apps Championship 2025-26
 - AI Genesis 2025
