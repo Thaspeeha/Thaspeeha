@@ -58,7 +58,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 - National Student Competition on Technology and Sustainability - RAK EISC 2026
 - Create Apps Championship 2025-26
 - AI Genesis 2025
-- MENA x Starbucks Student Hackathon 2025
+- META x Starbucks Student Hackathon 2025
 - Innovation Hackathon 2025
 
 ## 🌍 Featured Projects
