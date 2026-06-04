@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Thaspeeha?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Thaspeeha?affiliations=OWNER&style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Thaspeeha&style=for-the-badge&color=blue" />
 </p>
@@ -68,14 +67,6 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 | 🌱 **[Terra Quest](https://github.com/Thaspeeha/Terra-Quest)** | Gamified sustainability platform that turns eco-friendly actions into measurable environmental impact. |
 | 🌎 **[Anthos Terra](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)** | A web-based platform for monitoring, analyzing, and forecasting plant blooming events using NASA Earth observation data and other open datasets. |
 | 🌡️ **[UAE HeatLens](https://github.com/Thaspeeha/Urban-Heat)** | A data-driven urban analytics tool designed to visualize, predict, and mitigate Urban Heat Island (UHI) effects in dense urban regions such as Downtown Dubai. |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thaspeeha&theme=tokyonight" />
-</p>
 
 ---
 
