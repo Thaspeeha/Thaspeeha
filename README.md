@@ -35,7 +35,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,react,nextjs,fastapi,flask,xml" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,react,nextjs,fastapi,flask" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 <p align="center">
   <strong>Also experienced with:</strong><br>
-  Pandas • NumPy • Scikit-Learn • Google Colab • Oracle SQL Developer • Canva • Trello • ClickUp • Wix
+  Pandas • NumPy • Scikit-Learn • Google Colab • Oracle SQL Developer • Canva • Trello • ClickUp • Wix • XML
 </p>
 
 ---
