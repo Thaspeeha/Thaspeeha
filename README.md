@@ -26,20 +26,17 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 ## 👨‍💻 A Little About Me
 
-$ whoami
-Thaspeeha Vahithu
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=999999&color=36BCF7&center=true&width=500&lines=%24+whoami+%E2%86%92+Thaspeeha+Vahithu" />
+</p>
 
-$ education
-BSc (Hons) Computer Science
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=999999&color=36BCF7&center=true&width=700&lines=%24+interests+%E2%86%92+AI+%7C+Machine+Learning+%7C+Software+Development" />
+</p>
 
-$ interests
-AI • Machine Learning • Software Development
-
-$ currently_learning
-AI & ML • Full-Stack Development • Data Science
-
-$ motto
-Turning ideas into projects 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=999999&color=36BCF7&center=true&width=600&lines=%24+currently_exploring+%E2%86%92+Data+Science+%7C+Full-Stack+Development" />
+</p>
         
 ---
 
