@@ -66,7 +66,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 - Medulla Products and Consulting LLC - Web Development Intern
 - **[Afzar Consultants LLC - Afzar Hydraulics](https://github.com/touseefspace/Afzar-Hydraulics)**
 
-## 💻 University Projects
+### 💻 University Projects
 
 - **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
 - **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
@@ -75,7 +75,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 - **[UI-UX App Development](https://github.com/Thaspeeha/UI-UX_App_Development)**
 - **[Programming Project](https://github.com/Thaspeeha/Programming-Project)**
 
-## 🔨 Personal Projects
+### 🔨 Personal Projects
 
 - **[MiniCart](https://github.com/Thaspeeha/MiniCart)**
 - **[Python Project](https://github.com/Thaspeeha/Python-Project)**
