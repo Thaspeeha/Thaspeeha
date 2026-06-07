@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Thaspeeha Vahithu
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Thaspeeha%20Vahithu&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Thaspeeha%20Vahithu&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+AI+%26+Software+Engineer;AI+Enthusiast+%26+Builder;Always+Learning+Something+New+🚀" />
