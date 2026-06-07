@@ -24,10 +24,10 @@
 
 Passionate about **AI**, **Machine Learning**, and **Software Development**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions through hands-on learning and hackathons.
 
-## 👨‍💻 A Little About Me
+### 👨‍💻 Currently Exploring
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&repeat=true&lines=Currently+Exploring+%E2%86%92+Data+Science;Currently+Exploring+%E2%86%92+Full-Stack+Development;Currently+Exploring+%E2%86%92+Machine+Learning;Currently+Exploring+%E2%86%92+Sustainability+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&repeat=true&lines=Data+Science;Full-Stack+Development;Machine+Learning;Sustainability+Technology" />
 </p>
         
 ---
