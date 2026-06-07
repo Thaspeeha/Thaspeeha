@@ -27,15 +27,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 ## 👨‍💻 A Little About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=999999&color=36BCF7&center=true&width=500&lines=whoami+%E2%86%92+Thaspeeha+Vahithu" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=999999&color=36BCF7&center=true&width=700&lines=interests+%E2%86%92+AI+%7C+Machine+Learning+%7C+Software+Development" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=999999&color=36BCF7&center=true&width=600&lines=currently_exploring+%E2%86%92+Data+Science+%7C+Full-Stack+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=999999&color=36BCF7&center=true&width=600&lines=Currently_exploring+%E2%86%92+Data+Science+%7C+Full-Stack+Development" />
 </p>
         
 ---
