@@ -26,10 +26,27 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 ### 🌱 Currently Exploring
 
-- AI & Machine Learning
-- Full-Stack Development
-- Data Science
-- Technology & Sustainabiliy
+class Thaspeeha:
+
+    education = "BSc (Hons) Computer Science"
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Development",
+        "Data Science",
+        "Sustainability Tech"
+    ]
+
+    currently_learning = [
+        "AI & Machine Learning",
+        "Full-Stack Development",
+        "Data Science"
+    ]
+
+    def motto(self):
+        return "Turning ideas into projects 🚀"
+        
 ---
 
 ## 🛠️ Tech Stack
