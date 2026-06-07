@@ -27,7 +27,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 ## 👨‍💻 A Little About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=999999&color=36BCF7&center=true&width=600&lines=Currently_exploring+%E2%86%92+Data+Science+%7C+Full-Stack+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=999999&color=36BCF7&center=true&vCenter=true&width=900&lines=Currently+Exploring+%E2%86%92+Data+Science+%7C+Full-Stack+Development" />
 </p>
         
 ---
