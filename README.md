@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Hey,%20I'm%20Thaspeeha&fontColor=ffffff&animation=twinkling" />
 
 <p align="center">
-  <img src="https://github.com/rahul-jha98/README-Resources/blob/master/Developer.gif" width="350"/>
+  <img width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NwM2p0M2djdXQwN2d4a3N6bWtwN2h6M3F3ZXFjYmE4aGN6aXJ4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif">
 </p>
 
 <p align="center">
