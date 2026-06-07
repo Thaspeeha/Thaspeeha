@@ -24,28 +24,22 @@
 
 Passionate about **AI**, **Machine Learning**, and **Software Development**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions through hands-on learning and hackathons.
 
-### 🌱 Currently Exploring
+## 👨‍💻 A Little About Me
 
-class Thaspeeha:
+$ whoami
+Thaspeeha Vahithu
 
-    education = "BSc (Hons) Computer Science"
+$ education
+BSc (Hons) Computer Science
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software Development",
-        "Data Science",
-        "Sustainability Tech"
-    ]
+$ interests
+AI • Machine Learning • Software Development
 
-    currently_learning = [
-        "AI & Machine Learning",
-        "Full-Stack Development",
-        "Data Science"
-    ]
+$ currently_learning
+AI & ML • Full-Stack Development • Data Science
 
-    def motto(self):
-        return "Turning ideas into projects 🚀"
+$ motto
+Turning ideas into projects 🚀
         
 ---
 
