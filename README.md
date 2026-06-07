@@ -78,7 +78,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 ## 🔨 Personal Projects
 
 - **[MiniCart](https://github.com/Thaspeeha/MiniCart)**
-- **[Python Project)[https://github.com/Thaspeeha/Python-Project)**
+- **[Python Project](https://github.com/Thaspeeha/Python-Project)**
 - **[codealpha tasks](https://github.com/Thaspeeha/codealpha_tasks)**
 
 ## 🌍 Featured Projects
