@@ -59,6 +59,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 - **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
 - **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
 - **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
+- **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
 
 ### 🏆 Experience
 
@@ -72,7 +73,6 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 - **[Artificial Intelligence](https://github.com/Thaspeeha/Artificial-Intelligence)**
 - **[E-Commerce Web Development](https://github.com/Thaspeeha/E-Commerce_Web_Development)**
 - **[UI-UX App Development](https://github.com/Thaspeeha/UI-UX_App_Development)**
-- **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
 - **[Programming Project](https://github.com/Thaspeeha/Programming-Project)**
 
 ## 🔨 Personal Projects
