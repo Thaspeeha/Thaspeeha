@@ -35,7 +35,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,pytorch,react,nextjs,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,react,nextjs,fastapi,flask" />
 </p>
 
 <p align="center">
@@ -59,6 +59,27 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 - **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
 - **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
 - **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
+
+### 🏆 Experience
+
+- Medulla Products and Consulting LLC - Web Development Intern
+- **[Afzar Consultants LLC - Afzar Hydraulics](https://github.com/touseefspace/Afzar-Hydraulics)**
+
+## 💻 University Projects
+
+- **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
+- **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
+- **[Artificial Intelligence](https://github.com/Thaspeeha/Artificial-Intelligence)**
+- **[E-Commerce Web Development](https://github.com/Thaspeeha/E-Commerce_Web_Development)**
+- **[UI-UX App Development](https://github.com/Thaspeeha/UI-UX_App_Development)**
+- **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
+- **[Programming Project](https://github.com/Thaspeeha/Programming-Project)**
+
+## 🔨 Personal Projects
+
+- **[MiniCart](https://github.com/Thaspeeha/MiniCart)**
+- **[Python Project)[https://github.com/Thaspeeha/Python-Project)**
+- **[codealpha tasks](https://github.com/Thaspeeha/codealpha_tasks)**
 
 ## 🌍 Featured Projects
 
