@@ -55,9 +55,9 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 - **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
 - **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
-- Create Apps Championship 2025-26
-- AI Genesis 2025
-- META x Starbucks Student Hackathon 2025
+- **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
+- **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
+- **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
 - **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
 
 ## 🌍 Featured Projects
