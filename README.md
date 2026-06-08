@@ -35,7 +35,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,react,nextjs,fastapi,flask.nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,react,nextjs,fastapi,flask,nodejs" />
 </p>
 
 <p align="center">
