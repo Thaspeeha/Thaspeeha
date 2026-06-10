@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Thaspeeha?affiliations=OWNER&style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Thaspeeha&style=for-the-badge&color=blue" />
 </p>
 
