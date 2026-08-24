@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Thaspeeha Vahithu
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+AI+%26+Software+Engineer;AI+Enthusiast+%26+Builder;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Backend+AI+%26+Engineer;Aspiring+AI+%26+Software+Engineer;AI+Enthusiast+%26+Builder;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
