@@ -67,6 +67,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 ### 💻 University Projects
 
+- **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
 - **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
 - **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
 - **[Artificial Intelligence](https://github.com/Thaspeeha/Artificial-Intelligence)**
