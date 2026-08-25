@@ -92,6 +92,14 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 ---
 
+## 📰 Featured & Recognized
+
+- **[Event / Newsletter Name](LINK)** — Featured for participating in [event name], highlighting our project and experience.
+- **[Event / Newsletter Name](LINK)** — Mentioned in the official event newsletter for [achievement/project].
+- **[Event / Newsletter Name](LINK)** — Featured as part of [event/team/competition].
+  
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
