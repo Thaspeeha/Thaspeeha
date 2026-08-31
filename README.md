@@ -38,7 +38,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,firebase,mongodb,git,github,vscode,androidstudio,figma,tensorflow,docker,webpack" />
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,mongodb,git,github,vscode,androidstudio,figma,tensorflow,docker,turbopack" />
 </p>
 
 <p align="center">
