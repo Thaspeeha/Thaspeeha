@@ -38,7 +38,11 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,firebase,mongodb,git,github,vscode,androidstudio,figma,tensorflow,docker,turborepo" />
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,mongodb,git,github,vscode,androidstudio,figma,tensorflow,docker" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=turborepo&logoColor=white" />
 </p>
 
 <p align="center">
