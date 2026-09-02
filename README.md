@@ -220,7 +220,9 @@ I'm particularly interested in building systems where AI isn't just a feature �
 
 If you're interested in AI engineering, software development, hackathons, automation, or building something interesting, let's connect.
 
-<p align="center"> <a href="https://www.linkedin.com/in/thaspeeha-vahithu/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Thaspeeha"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:vahithuthaspeeha@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> </p>
 
 <p align="center">
 
@@ -303,20 +305,6 @@ Build things. Break things. Understand things. Build better things.
 - ☕ Debugging teaches patience better than meditation.
 - 🌙 Some of my best ideas appear late at night.
 - 🚀 Always excited to learn new technologies and build cool things.
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:vahithuthaspeeha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
 
 ---
 
