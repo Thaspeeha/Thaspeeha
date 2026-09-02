@@ -49,11 +49,11 @@ My current focus is on AI engineering, machine learning, backend development, au
 
 ## 03 // ACTIVE MISSIONS
 
-Not just projects. Experiments in turning ideas into systems.
+> Not just projects. Experiments in turning ideas into systems.
 
-🧠 MISSION 01 — Explainable AI
+### 🧠 MISSION 01 — Explainable AI
 
-Explainable AI for Breast Cancer Diagnosis
+#### Explainable AI for Breast Cancer Diagnosis
 
 A machine-learning system exploring how predictive models can become more interpretable through explainability techniques.
 
@@ -74,16 +74,17 @@ AUC         ████████████████████  0.994
 → Clinician-focused interface
 → Multiple explanation modes
 
-🛰️ MISSION 02 — Anthos Terra
+### 🛰️ MISSION 02 — Anthos Terra
 
-NASA Space Apps Challenge 2025
+#### NASA Space Apps Challenge 2025
 
 A platform for monitoring, analysing and forecasting plant blooming events using Earth-observation data and open datasets.
 
-🏆 LOCAL WINNER
-🌍 GLOBAL NOMINEE
-🛰️ NASA SPACE APPS 2025
-🌡️ MISSION 03 — UAE HeatLens
+`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🛰️ NASA SPACE APPS 2025`
+
+### 🌡️ MISSION 03 — UAE HeatLens
+
+#### Innovation Hackathon
 
 An urban analytics concept focused on understanding and mitigating Urban Heat Island effects in dense environments such as Downtown Dubai.
 
@@ -93,7 +94,7 @@ Built around the intersection of:
 
 AI × Data × Sustainability × Urban Innovation
 
-🌱 MISSION 04 — TerraQuest
+### 🌱 MISSION 04 — TerraQuest
 
 A gamified sustainability platform designed to turn environmentally friendly actions into measurable impact.
 
