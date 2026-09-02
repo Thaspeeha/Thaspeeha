@@ -8,11 +8,27 @@
 
 ---
 
-## 🚀 About Me
+## 01 // SYSTEM STATUS
+┌──────────────────────────────────────────────────────────────┐
+│                    THASPEEHA.EXE                             │
+├──────────────────────────────────────────────────────────────┤
+│ STATUS       ● ONLINE                                        │
+│ ROLE         AI / SOFTWARE ENGINEER                          │
+│ EDUCATION    BSc (Hons) Computer Science                     │
+│ FOCUS        AI · ML · Backend · Full-Stack                  │
+│ BASE         UAE                                             │
+│ MODE         BUILDING                                        │
+└──────────────────────────────────────────────────────────────┘
 
 🎓 Computer Science Graduate, University of West London – RAK Branch
 
 Passionate about **AI**, **Machine Learning**, and **Software Development**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions through hands-on learning and hackathons.
+
+I enjoy taking an idea from:
+
+problem → model → API → interface → deployable product
+
+My current focus is on AI engineering, machine learning, backend development, automation, and full-stack applications.
 
 ### 👨‍💻 Currently Exploring
 
