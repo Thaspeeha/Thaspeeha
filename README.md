@@ -98,9 +98,9 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 ## 📰 Featured & Recognized
 
-- **[Event / Newsletter Name](LINK)** — Featured for participating in [event name], highlighting our project and experience.
-- **[Event / Newsletter Name](LINK)** — Mentioned in the official event newsletter for [achievement/project].
-- **[Event / Newsletter Name](LINK)** — Featured as part of [event/team/competition].
+- **[Event / Newsletter Name]()** — Featured for participating in [event name], highlighting our project and experience.
+- **[Innovation Hackathon 2025-OCT](https://canva.link/m57zg37iofy2qmn)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event, highlighted our experience as the finalists.
+- **[Innovation Challenge Program and Growth Summit by First Abu Dhabi Bank 2023-DEC](https://canva.link/8k5woz9ei8153wr)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event, highlighted our experience as the finalists.
   
 ---
 
