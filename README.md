@@ -132,7 +132,6 @@ MEASURABLE IMPACT
 
 ## 05 // ACHIEVEMENT UNLOCKED
 
-<p align="center">
 | Achievement |	Status |
 |--|--|
 🛰️ NASA Space Apps | 🏆 Local Winner
@@ -141,9 +140,98 @@ MEASURABLE IMPACT
 🌡️ UAE HeatLens	|🚀 Innovation Project
 🧠 Explainable AI |	🚀 Completed
 💻 Full-Stack Development	|⚡ Building
-🤖 AI Engineering	|🔥 Current Focu
-/p>
+🤖 AI Engineering	|🔥 Current Focus
   
+---
+
+## 06 // THE BUILD LOOP
+                    ┌──────────────┐
+                    │    IDEA      │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   PROBLEM    │
+                    └──────┬───────┘
+                           ↓
+              ┌────────────────────────┐
+              │     EXPERIMENT         │
+              │                        │
+              │  AI · DATA · CODE      │
+              └───────────┬────────────┘
+                          ↓
+                    ┌──────────────┐
+                    │     BUILD    │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │     SHIP     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    LEARN     │
+                    └──────┬───────┘
+                           │
+                           └──────────→ repeat
+
+---
+
+## 07 // CURRENT EXPERIMENT
+
+┌──────────────────────────────────────────────────┐
+│              CURRENTLY EXPLORING                 │
+├──────────────────────────────────────────────────┤
+│                                                  │
+│  ⚡ Agentic AI                                   │
+│  🤖 AI Engineering                               │
+│  🔌 Production APIs                              │
+│  🧠 Machine Learning                             │
+│  ⚙️ AI Automation                                │
+│  🌐 Full-Stack AI Applications                   │
+│                                                  │
+└──────────────────────────────────────────────────┘
+
+I'm particularly interested in building systems where AI isn't just a feature — it's part of the product's core behaviour.
+
+---
+
+## 08 // GITHUB TELEMETRY
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thaspeeha&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaspeeha&layout=compact&hide_border=true&langs_count=8" height="165"/> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Thaspeeha&hide_border=true" /> </p>
+
+---
+
+## 09 // BEYOND THE CODE
+
+☕ Debugging teaches patience better than meditation.
+
+🌙 Some of my best ideas appear late at night.
+
+🧠 I learn fastest when I build.
+
+🚀 Hackathons are where ideas get stress-tested.
+
+🔭 Curiosity is probably my most-used dependency.
+
+---
+
+## 10 // TRANSMISSION
+
+If you're interested in AI engineering, software development, hackathons, automation, or building something interesting, let's connect.
+
+<p align="center"> <a href="https://www.linkedin.com/in/thaspeeha-vahithu/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Thaspeeha"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+
+<p align="center">
+
+Build things. Break things. Understand things. Build better things.
+
+</p>
+
+<p align="center"> <sub>THASPEEHA // END OF TRANSMISSION</sub> </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
+
 ---
 
 ## 🏆 Experience & Activities
