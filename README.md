@@ -11,7 +11,7 @@
 ## 01 // SYSTEM STATUS
 
 <div align="center">
-  <img src="./system-status.svg" alt="System status: Thaspeeha.exe — online, AI/Software Engineer, BSc Computer Science, UAE" width="700"/>
+  <img src="./system-status-animated.svg" alt="System status: Thaspeeha.exe — online, AI/Software Engineer, BSc Computer Science, UAE" width="700"/>
 </div>
 
 🎓 Computer Science Graduate, University of West London – RAK Branch
