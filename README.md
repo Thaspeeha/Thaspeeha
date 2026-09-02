@@ -113,20 +113,9 @@ MEASURABLE IMPACT
 
 ## 04 // QUEST LOG
 
-[✓] Learn Computer Science
-[✓] Build full-stack applications
-[✓] Explore Machine Learning
-[✓] Build an Explainable AI system
-[✓] Compete in hackathons
-[✓] NASA Space Apps
-[✓] Build AI + sustainability projects..
-[✓] Graduate with BSc (Hons) Computer Science
-
-[→] Become a stronger AI Engineer
-[→] Build production-ready AI systems
-[→] Explore Agentic AI
-[→] Contribute to Open Source
-[→] Ship more things
+<div align="center">
+<img src="quest-log.svg" alt="Quest Log"/>
+</div>
 
 ---
 
