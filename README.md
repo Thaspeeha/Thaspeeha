@@ -8,7 +8,7 @@
 
 ---
 
-## 01 // SYSTEM STATUS
+## 01 // SYSTEM STATUS 🚀
 
 <div align="center">
   <img src="./system-status-animated.svg" alt="System status: Thaspeeha.exe — online, AI/Software Engineer, BSc Computer Science, UAE" width="700"/>
@@ -23,16 +23,10 @@ I enjoy taking an idea from:
 problem → model → API → interface → deployable product
 
 My current focus is on AI engineering, machine learning, backend development, automation, and full-stack applications.
-
-### 👨‍💻 Currently Exploring
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&repeat=true&lines=Backend+AI+Engineering;Data+Science;Full-Stack+Development;Machine+Learning;Sustainability+Technology" />
-</p>
-        
+ 
 ---
 
-## 🛠️ Tech Stack
+## 02 // TECH STACK 🛠️
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,react,nextjs,fastapi,flask,nodejs,pytorch,vercel" />
