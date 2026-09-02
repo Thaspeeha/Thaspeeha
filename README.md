@@ -119,7 +119,7 @@ MEASURABLE IMPACT
 [✓] Build an Explainable AI system
 [✓] Compete in hackathons
 [✓] NASA Space Apps
-[✓] Build AI + sustainability projects
+[✓] Build AI + sustainability projects..
 [✓] Graduate with BSc (Hons) Computer Science
 
 [→] Become a stronger AI Engineer
