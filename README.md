@@ -1,5 +1,3 @@
-# 👋 Hey, I'm Thaspeeha Vahithu
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=THASPEEHA%20VAHITHU&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/> </p>
 
 <p align="center"> <a href="https://github.com/Thaspeeha"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+%C3%97+Software+%C3%97+Creativity;Building+intelligent+systems+from+idea+to+interface;Machine+Learning+%7C+APIs+%7C+Full-Stack;Turning+problems+into+things+people+can+use." /> </a> </p>
