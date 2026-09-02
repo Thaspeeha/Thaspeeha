@@ -1,19 +1,10 @@
 # 👋 Hey, I'm Thaspeeha Vahithu
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Backend+AI+Engineer;Aspiring+AI+%26+Software+Engineer;AI+Enthusiast+%26+Builder;Always+Learning+Something+New+🚀" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=THASPEEHA%20VAHITHU&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thaspeeha&style=for-the-badge&color=blue" />
-</p>
+<p align="center"> <a href="https://github.com/Thaspeeha"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+%C3%97+Software+%C3%97+Creativity;Building+intelligent+systems+from+idea+to+interface;Machine+Learning+%7C+APIs+%7C+Full-Stack;Turning+problems+into+things+people+can+use." /> </a> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Developer-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackathon%20Innovator-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-purple?style=for-the-badge" />
-</p>
+<p align="center"> <a href="https://github.com/Thaspeeha"> <img src="https://komarev.com/ghpvc/?username=Thaspeeha&label=PROFILE+VISITS&color=blue&style=flat-square"/> </a> </p>
 
 ---
 
