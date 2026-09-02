@@ -134,13 +134,13 @@ MEASURABLE IMPACT
 
 | Achievement |	Status |
 |--|--|
-🛰️ NASA Space Apps	🏆 Local Winner
-🌍 NASA Space Apps	🌐 Global Nominee
-🌱 TerraQuest	🏆 EISC Winner
-🌡️ UAE HeatLens	🚀 Innovation Project
-🧠 Explainable AI	🚀 Completed
-💻 Full-Stack Development	⚡ Building
-🤖 AI Engineering	🔥 Current Focu
+🛰️ NASA Space Apps | 🏆 Local Winner
+🌍 NASA Space Apps	| 🌐 Global Nominee
+🌱 TerraQuest |	🏆 EISC Winner
+🌡️ UAE HeatLens	|🚀 Innovation Project
+🧠 Explainable AI |	🚀 Completed
+💻 Full-Stack Development	|⚡ Building
+🤖 AI Engineering	|🔥 Current Focu
 
 ---
 
