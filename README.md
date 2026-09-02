@@ -155,8 +155,6 @@ MEASURABLE IMPACT
 
 ---
 
----
-
 ## 🏆 Experience & Activities
 
 ### 🚀 Hackathons & Competitions
@@ -215,11 +213,11 @@ Build things. Break things. Understand things. Build better things.
 
 </p>
 
-<p align="center"> <sub>THASPEEHA // END OF TRANSMISSION</sub> </p>
-
 <p align="center">
   <i>"Learning never exhausts the mind."</i><br>
   — Leonardo da Vinci
 </p>
+
+<p align="center"> <sub>THASPEEHA // END OF TRANSMISSION</sub> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
