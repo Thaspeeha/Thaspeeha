@@ -215,7 +215,7 @@ If you're interested in AI engineering, software development, hackathons, automa
 
 <p align="center">
 
-Build things. Break things. Understand things. Build better things...
+Build things. Break things. Understand things. Build better things.
 
 </p>
 
