@@ -79,7 +79,7 @@ Best model
 
 A platform for monitoring, analysing and forecasting plant blooming events using Earth-observation data and open datasets.
 
-`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🛰️ NASA SPACE APPS 2025`
+`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🏆 HONORABLE MENTION` · `🛰️ NASA SPACE APPS 2025`
 
 ### 🌡️ MISSION 03 — UAE HeatLens
 
@@ -99,13 +99,7 @@ AI × Data × Sustainability × Urban Innovation
 
 A gamified sustainability platform designed to turn environmentally friendly actions into measurable impact.
 
-ECO ACTION
-    ↓
-GAME MECHANICS
-    ↓
-USER ENGAGEMENT
-    ↓
-MEASURABLE IMPACT
+ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 `🌱 EISC 2026` · `🏆 WINNER` · `🎮 GAMIFICATION` · `🌍 SUSTAINABILITY`
 
