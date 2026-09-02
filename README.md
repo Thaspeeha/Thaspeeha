@@ -26,7 +26,7 @@ My current focus is on AI engineering, machine learning, backend development, au
  
 ---
 
-## 02 // TECH STACK 🛠️
+## 02 // TECH STACK 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,react,nextjs,fastapi,flask,nodejs,pytorch,vercel" />
@@ -66,8 +66,7 @@ INFRASTRUCTURE  → Docker
 
 Best model
 
-Accuracy    ███████████████████░  97.37%
-AUC         ████████████████████  0.994
+` Accuracy    ███████████████████░  97.37% ` · `AUC        ████████████████████  0.994 `
 
 → SHAP explanations
 → Global feature importance
@@ -80,7 +79,7 @@ AUC         ████████████████████  0.994
 
 A platform for monitoring, analysing and forecasting plant blooming events using Earth-observation data and open datasets.
 
-`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🛰️ NASA SPACE APPS 2025`
+`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE`C `🛰️ NASA SPACE APPS 2025`
 
 ### 🌡️ MISSION 03 — UAE HeatLens
 
@@ -108,7 +107,7 @@ USER ENGAGEMENT
     ↓
 MEASURABLE IMPACT
 
-`🏆 Winner — EISC 2026 ` · `🏆 Finalist — EISC 2026 ` · 
+`🌱 EISC 2026` · `🏆 WINNER` · `🎮 GAMIFICATION` · `🌍 SUSTAINABILITY`
 
 ---
 
