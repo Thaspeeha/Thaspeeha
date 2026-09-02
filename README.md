@@ -132,6 +132,7 @@ MEASURABLE IMPACT
 
 ## 05 // ACHIEVEMENT UNLOCKED
 
+<p align="center">
 | Achievement |	Status |
 |--|--|
 🛰️ NASA Space Apps | 🏆 Local Winner
@@ -141,7 +142,8 @@ MEASURABLE IMPACT
 🧠 Explainable AI |	🚀 Completed
 💻 Full-Stack Development	|⚡ Building
 🤖 AI Engineering	|🔥 Current Focu
-
+/p>
+  
 ---
 
 ## 🏆 Experience & Activities
