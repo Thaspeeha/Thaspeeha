@@ -223,6 +223,11 @@ Build things. Break things. Understand things. Build better things.
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
 
+<p align="center">
+  <i>"Learning never exhausts the mind."</i><br>
+  — Leonardo da Vinci
+</p>
+
 ---
 
 ## 🏆 Experience & Activities
@@ -268,36 +273,3 @@ Build things. Break things. Understand things. Build better things.
 - **[Innovation Challenge Program and Growth Summit by First Abu Dhabi Bank 2023-DEC](https://canva.link/8k5woz9ei8153wr)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event, highlighted our experience as the finalists.
   
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thaspeeha&theme=tokyo-night" />
-</p>
-
----
-
-## 🎯 Goals for 2026
-
-- Build impactful AI and Machine Learning projects
-- Gain industry experience through internships
-- Strengthen software engineering fundamentals
-- Contribute to open-source projects
-- Continue learning emerging technologies
-- Grow as an AI and Software Engineer
-
----
-
-## 💭 Fun Facts
-
-- 🤖 Curious about almost everything AI.
-- ☕ Debugging teaches patience better than meditation.
-- 🌙 Some of my best ideas appear late at night.
-- 🚀 Always excited to learn new technologies and build cool things.
-
----
-
-<p align="center">
-  <i>"Learning never exhausts the mind."</i><br>
-  — Leonardo da Vinci
-</p>
