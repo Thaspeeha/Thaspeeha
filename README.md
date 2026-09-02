@@ -98,7 +98,7 @@ Passionate about **AI**, **Machine Learning**, and **Software Development**. I e
 
 ## 📰 Featured & Recognized
 
-- **[Event / Newsletter Name]()** — Featured for participating in [event name], highlighting our project and experience.
+- **[Samsung Innovation Campus 2025](https://www.linkedin.com/pulse/ai-office-collaboration-samsung-gulf-electronics-qjncf/?trackingId=gPlXcmdYjwdB2ev9GQpWCw%3D%3D)** — Featured for participating in the Samsung Innovation Program, celebrated the graduation of 130 students from across the Emirates.
 - **[Innovation Hackathon 2025-OCT](https://canva.link/m57zg37iofy2qmn)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event, highlighted our experience as the finalists.
 - **[Innovation Challenge Program and Growth Summit by First Abu Dhabi Bank 2023-DEC](https://canva.link/8k5woz9ei8153wr)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event, highlighted our experience as the finalists.
   
