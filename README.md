@@ -68,8 +68,8 @@ Best model
 
 ` Accuracy    ███████████████████░  97.37% ` · `AUC        ████████████████████  0.994 `
 
-→ SHAP explanations
-→ Global feature importance
+-→ SHAP explanations
+-→ Global feature importance
 → Clinician-focused interface
 → Multiple explanation modes
 
@@ -79,7 +79,7 @@ Best model
 
 A platform for monitoring, analysing and forecasting plant blooming events using Earth-observation data and open datasets.
 
-`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE`C `🛰️ NASA SPACE APPS 2025`
+`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🛰️ NASA SPACE APPS 2025`
 
 ### 🌡️ MISSION 03 — UAE HeatLens
 
@@ -108,6 +108,39 @@ USER ENGAGEMENT
 MEASURABLE IMPACT
 
 `🌱 EISC 2026` · `🏆 WINNER` · `🎮 GAMIFICATION` · `🌍 SUSTAINABILITY`
+
+---
+
+## 04 // QUEST LOG
+
+[✓] Learn Computer Science
+[✓] Build full-stack applications
+[✓] Explore Machine Learning
+[✓] Build an Explainable AI system
+[✓] Compete in hackathons
+[✓] NASA Space Apps
+[✓] Build AI + sustainability projects
+[✓] Graduate with BSc (Hons) Computer Science
+
+[→] Become a stronger AI Engineer
+[→] Build production-ready AI systems
+[→] Explore Agentic AI
+[→] Contribute to Open Source
+[→] Ship more things
+
+---
+
+## 05 // ACHIEVEMENT UNLOCKED
+
+| Achievement |	Status |
+|--|--|
+🛰️ NASA Space Apps	🏆 Local Winner
+🌍 NASA Space Apps	🌐 Global Nominee
+🌱 TerraQuest	🏆 EISC Winner
+🌡️ UAE HeatLens	🚀 Innovation Project
+🧠 Explainable AI	🚀 Completed
+💻 Full-Stack Development	⚡ Building
+🤖 AI Engineering	🔥 Current Focu
 
 ---
 
@@ -144,14 +177,6 @@ MEASURABLE IMPACT
 - **[Python Project](https://github.com/Thaspeeha/Python-Project)**
 - **[codealpha tasks](https://github.com/Thaspeeha/codealpha_tasks)**
 - **[Personal Portfolio Website](https://github.com/Thaspeeha/Personal-Portfolio-Website)** - *Under Development*
-
-## 🌍 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🌱 **[Terra Quest](https://github.com/Thaspeeha/Terra-Quest)** | Gamified sustainability platform that turns eco-friendly actions into measurable environmental impact. |
-| 🌎 **[Anthos Terra](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)** | A web-based platform for monitoring, analyzing, and forecasting plant blooming events using NASA Earth observation data and other open datasets. |
-| 🌡️ **[UAE HeatLens](https://github.com/Thaspeeha/Urban-Heat)** | A data-driven urban analytics tool designed to visualize, predict, and mitigate Urban Heat Island (UHI) effects in dense urban regions such as Downtown Dubai. |
 
 ---
 
