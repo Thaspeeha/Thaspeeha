@@ -9,16 +9,10 @@
 ---
 
 ## 01 // SYSTEM STATUS
-┌──────────────────────────────────────────────────────────────┐
-│                    THASPEEHA.EXE                             │
-├──────────────────────────────────────────────────────────────┤
-│ STATUS       ● ONLINE                                        │
-│ ROLE         AI / SOFTWARE ENGINEER                          │
-│ EDUCATION    BSc (Hons) Computer Science                     │
-│ FOCUS        AI · ML · Backend · Full-Stack                  │
-│ BASE         UAE                                             │
-│ MODE         BUILDING                                        │
-└──────────────────────────────────────────────────────────────┘
+
+<div align="center">
+  <img src="./system-status.svg" alt="System status: Thaspeeha.exe — online, AI/Software Engineer, BSc Computer Science, UAE" width="700"/>
+</div>
 
 🎓 Computer Science Graduate, University of West London – RAK Branch
 
