@@ -53,7 +53,7 @@ My current focus is on AI engineering, machine learning, backend development, au
 
 ### 🧠 MISSION 01 — Explainable AI
 
-#### Explainable AI for Breast Cancer Diagnosis
+**[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
 
 A machine-learning system exploring how predictive models can become more interpretable through explainability techniques.
 
@@ -62,7 +62,7 @@ EXPLAINER   → SHAP
 BACKEND     → FastAPI
 FRONTEND    → Next.js
 DATABASE    → MongoDB Atlas
-DEPLOYMENT  → Docker
+INFRASTRUCTURE  → Docker
 
 Best model
 
@@ -76,7 +76,7 @@ AUC         ████████████████████  0.994
 
 ### 🛰️ MISSION 02 — Anthos Terra
 
-#### NASA Space Apps Challenge 2025
+**[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
 
 A platform for monitoring, analysing and forecasting plant blooming events using Earth-observation data and open datasets.
 
@@ -84,7 +84,7 @@ A platform for monitoring, analysing and forecasting plant blooming events using
 
 ### 🌡️ MISSION 03 — UAE HeatLens
 
-#### Innovation Hackathon
+**[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
 
 An urban analytics concept focused on understanding and mitigating Urban Heat Island effects in dense environments such as Downtown Dubai.
 
@@ -96,6 +96,8 @@ AI × Data × Sustainability × Urban Innovation
 
 ### 🌱 MISSION 04 — TerraQuest
 
+**[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
+
 A gamified sustainability platform designed to turn environmentally friendly actions into measurable impact.
 
 ECO ACTION
@@ -106,7 +108,7 @@ USER ENGAGEMENT
     ↓
 MEASURABLE IMPACT
 
-🏆 Winner — EISC 2026
+`🏆 Winner — EISC 2026 ` · `🏆 Finalist — EISC 2026 ` · 
 
 ---
 
