@@ -133,56 +133,6 @@ MEASURABLE IMPACT
   
 ---
 
-## 06 // THE BUILD LOOP
-                    ┌──────────────┐
-                    │    IDEA      │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │   PROBLEM    │
-                    └──────┬───────┘
-                           ↓
-              ┌────────────────────────┐
-              │     EXPERIMENT         │
-              │                        │
-              │  AI · DATA · CODE      │
-              └───────────┬────────────┘
-                          ↓
-                    ┌──────────────┐
-                    │     BUILD    │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │     SHIP     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    LEARN     │
-                    └──────┬───────┘
-                           │
-                           └──────────→ repeat
-
----
-
-## 07 // CURRENT EXPERIMENT
-
-┌──────────────────────────────────────────────────┐
-│              CURRENTLY EXPLORING                 │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  ⚡ Agentic AI                                   │
-│  🤖 AI Engineering                               │
-│  🔌 Production APIs                              │
-│  🧠 Machine Learning                             │
-│  ⚙️ AI Automation                                │
-│  🌐 Full-Stack AI Applications                   │
-│                                                  │
-└──────────────────────────────────────────────────┘
-
-I'm particularly interested in building systems where AI isn't just a feature — it's part of the product's core behaviour.
-
----
-
 ## 08 // GITHUB TELEMETRY
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thaspeeha&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaspeeha&layout=compact&hide_border=true&langs_count=8" height="165"/> </p>
@@ -204,29 +154,6 @@ I'm particularly interested in building systems where AI isn't just a feature �
 🔭 Curiosity is probably my most-used dependency.
 
 ---
-
-## 10 // TRANSMISSION
-
-If you're interested in AI engineering, software development, hackathons, automation, or building something interesting, let's connect.
-
-<p align="center"> <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:vahithuthaspeeha@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> </p>
-
-<p align="center">
-
-Build things. Break things. Understand things. Build better things.
-
-</p>
-
-<p align="center"> <sub>THASPEEHA // END OF TRANSMISSION</sub> </p>
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
-
-<p align="center">
-  <i>"Learning never exhausts the mind."</i><br>
-  — Leonardo da Vinci
-</p>
 
 ---
 
@@ -271,5 +198,28 @@ Build things. Break things. Understand things. Build better things.
 - **[Samsung Innovation Campus 2025](https://www.linkedin.com/pulse/ai-office-collaboration-samsung-gulf-electronics-qjncf/?trackingId=gPlXcmdYjwdB2ev9GQpWCw%3D%3D)** — Featured for participating in the Samsung Innovation Program, celebrated the graduation of 130 students from across the Emirates.
 - **[Innovation Hackathon 2025-OCT](https://canva.link/m57zg37iofy2qmn)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event, highlighted our experience as the finalists.
 - **[Innovation Challenge Program and Growth Summit by First Abu Dhabi Bank 2023-DEC](https://canva.link/8k5woz9ei8153wr)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event, highlighted our experience as the finalists.
-  
+
 ---
+
+## 10 // TRANSMISSION
+
+If you're interested in AI engineering, software development, hackathons, automation, or building something interesting, let's connect.
+
+<p align="center"> <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:vahithuthaspeeha@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> </p>
+
+<p align="center">
+
+Build things. Break things. Understand things. Build better things.
+
+</p>
+
+<p align="center"> <sub>THASPEEHA // END OF TRANSMISSION</sub> </p>
+
+<p align="center">
+  <i>"Learning never exhausts the mind."</i><br>
+  — Leonardo da Vinci
+</p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
