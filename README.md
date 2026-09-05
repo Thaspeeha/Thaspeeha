@@ -51,7 +51,7 @@ My current focus is on AI engineering, machine learning, backend development, au
 
 <h3>
   🧠 Explainable AI
-  <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20May%202026-6366F1?style=flat-square&logo=calendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20May%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
 **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
