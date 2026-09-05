@@ -56,19 +56,19 @@ My current focus is on AI engineering, machine learning, backend development, au
 
 A machine-learning system exploring how predictive models can become more interpretable through explainability techniques.
 
-MODEL       → XGBoost
-EXPLAINER   → SHAP
-BACKEND     → FastAPI
-FRONTEND    → Next.js
-DATABASE    → MongoDB Atlas
-INFRASTRUCTURE  → Docker
+- MODEL       → XGBoost
+- EXPLAINER   → SHAP
+- BACKEND     → FastAPI
+- FRONTEND    → Next.js 
+- DATABASE    → MongoDB Atlas
+- INFRASTRUCTURE  → Docker
 
 Best model
 
 ` Accuracy    ███████████████████░  97.37% ` · `AUC        ████████████████████  0.994 `
 
--→ SHAP explanations
--→ Global feature importance
+→ SHAP explanations
+→ Global feature importance
 → Clinician-focused interface
 → Multiple explanation modes
 
