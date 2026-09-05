@@ -118,7 +118,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 ## 04 // QUEST LOG
 
 <div align="center">
-<img src="quest-log.svg" alt="Quest Log"/>
+<img src="quest-log-animated.svg" alt="Quest Log"/>
 </div>
 
 ---
