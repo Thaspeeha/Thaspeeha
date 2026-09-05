@@ -14,8 +14,6 @@
   <img src="./system-status-animated.svg" alt="System status: Thaspeeha.exe — online, AI/Software Engineer, BSc Computer Science, UAE" width="700"/>
 </div>
 
-🎓 University of West London – RAK Branch Oct 2023 - June 2026
-
 Passionate about **AI**, **Machine Learning**, and **Software Development**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions through hands-on learning and hackathons.
 
 I enjoy taking an idea from:
