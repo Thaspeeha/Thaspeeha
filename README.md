@@ -49,7 +49,7 @@ My current focus is on AI engineering, machine learning, backend development, au
 
 > Not just projects. Experiments in turning ideas into systems.
 
-### 🧠 MISSION 01 — Explainable AI          `📅 Oct 2025 → May 2026`
+### 🧠 MISSION 01 — Explainable AI         #### `📅 Oct 2025 → May 2026`
 
 **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
 
