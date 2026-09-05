@@ -45,11 +45,13 @@ My current focus is on AI engineering, machine learning, backend development, au
 
 ---
 
-## 03 // ACTIVE MISSIONS
+## 03 // MISSIONS
 
 > Not just projects. Experiments in turning ideas into systems.
 
-### 🧠 MISSION 01 — Explainable AI
+### 🧠 MISSION 01 — Explainable AI          
+
+<img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20May%202026-6366F1?style=flat-square&logo=calendar&logoColor=white"/>
 
 **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
 
