@@ -50,7 +50,7 @@ My current focus is on AI engineering, machine learning, backend development, au
 > Not just projects. Experiments in turning ideas into systems.
 
 <h3>
-  🧠 Explainable AI
+  🧠 MISSION 01 - Explainable AI
   <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20May%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
@@ -74,7 +74,10 @@ Best model
 → Clinician-focused interface
 → Multiple explanation modes
 
-### 🛰️ MISSION 02 — Anthos Terra
+<h3>
+  🛰️ MISSION 02 - NASA Space Apps
+  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
 
 **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
 
@@ -82,7 +85,10 @@ A platform for monitoring, analysing and forecasting plant blooming events using
 
 `🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🏆 HONORABLE MENTION` · `🛰️ NASA SPACE APPS 2025`
 
-### 🌡️ MISSION 03 — UAE HeatLens
+<h3>
+  🌡️ MISSION 03 - UAE HeatLens
+  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
 
 **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
 
@@ -94,7 +100,10 @@ Built around the intersection of:
 
 AI × Data × Sustainability × Urban Innovation
 
-### 🌱 MISSION 04 — TerraQuest
+<h3>
+  🌱 MISSION 04 - TerraQuest
+  <img src="https://img.shields.io/badge/January%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
 
 **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
 
