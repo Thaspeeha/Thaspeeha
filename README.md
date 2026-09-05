@@ -8,8 +8,6 @@
 
 ---
 
-## 01 // SYSTEM STATUS 🚀
-
 <div align="center">
   <img src="./system-status-animated.svg" alt="System status: Thaspeeha.exe — online, AI/Software Engineer, BSc Computer Science, UAE" width="700"/>
 </div>
@@ -114,8 +112,6 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 `🌱 EISC 2026` · `🏆 WINNER` · `🎮 GAMIFICATION` · `🌍 SUSTAINABILITY`
 
 ---
-
-## 04 // QUEST LOG
 
 <div align="center">
 <img src="quest-log-animated.svg" alt="Quest Log"/>
