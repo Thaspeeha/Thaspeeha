@@ -25,7 +25,7 @@ My current focus is on AI engineering, machine learning, backend development, au
 ## 02 // TECH STACK 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,r,react,nextjs,fastapi,flask,nodejs,pytorch,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,fastapi,flask,nodejs,pytorch,vercel" />
 </p>
 
 <p align="center">
