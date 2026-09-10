@@ -146,7 +146,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 </p>
 
 <p style="font-size: 14px;">
-  • <strong>Artificial Intelligence</strong> — Samsung Innovation Campus 2025
+  • <strong>Artificial Intelligence Course</strong> — Samsung Innovation Campus 2025
   <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20Jan%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </p>
 
