@@ -136,6 +136,8 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ## 06 // COURSES & CERTIFICATIONS
 
+### 🏆 <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/">CERTIFICATE VAULT</a>
+
 > Structured learning beyond the classroom.
 
 <p style="font-size: 14px;">
