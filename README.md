@@ -134,13 +134,22 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
   
 ---
 
-## 08 // GITHUB TELEMETRY
+## 06 // COURSES & CERTIFICATIONS
+
+> Structured learning beyond the classroom.
+
+- **Samsung Innovation Campus 2025** — Artificial Intelligence
+- **Future AWS AI Programmer Nanodegree Program** — Udacity x AWS
+
+---
+
+## 07 // GITHUB TELEMETRY
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Thaspeeha&hide_border=true" /> </p>
 
 ---
 
-## 09 // BEYOND THE CODE
+## 08 // BEYOND THE CODE
 
 ☕ Debugging teaches patience better than meditation.
 
