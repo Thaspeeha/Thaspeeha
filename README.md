@@ -29,7 +29,7 @@ My current focus is on AI engineering, machine learning, backend development, au
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,firebase,mongodb,git,github,vscode,androidstudio,figma,tensorflow,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,mongodb,git,github,vscode,androidstudio,figma,tensorflow,docker,cursor" />
 </p>
 
 <p align="center">
