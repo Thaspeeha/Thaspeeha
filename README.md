@@ -140,7 +140,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 - **Samsung Innovation Campus 2025** — Artificial Intelligence
 <h3>
-  - **Future AWS AI Programmer Nanodegree Program** — Udacity x AWS
+  - Future AWS AI Programmer Nanodegree Program — Udacity x AWS
   <img src="https://img.shields.io/badge/Aug%202026%20%E2%86%92%20Present-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
