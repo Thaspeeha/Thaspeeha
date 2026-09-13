@@ -29,11 +29,11 @@ My current focus is on AI engineering, machine learning, backend development, au
 ## 02 // TECH STACK 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,fastapi,flask,nodejs,pytorch,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,fastapi,flask,nodejs,pytorch,vercel,mongodb,git,github,vscode,figma,tensorflow,docker" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,firebase,mongodb,git,github,vscode,androidstudio,figma,tensorflow,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,androidstudio" />
 </p>
 
 <p align="center">
