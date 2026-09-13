@@ -138,45 +138,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
   
 ---
 
-## 06 // COURSES & CERTIFICATIONS
-
-### 🏆 <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/">CERTIFICATE VAULT</a>
-
-> Structured learning beyond the classroom.
-
-<p style="font-size: 14px;">
-  • <strong>Future AWS AI Programmer Nanodegree Program</strong> — Udacity x AWS
-  <img src="https://img.shields.io/badge/Aug%202026%20%E2%86%92%20Present-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
-</p>
-
-<p style="font-size: 14px;">
-  • <strong>Artificial Intelligence Course</strong> — Samsung Innovation Campus 2025
-  <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20Nov%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
-</p>
-
----
-
-## 07 // GITHUB TELEMETRY
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Thaspeeha&hide_border=true" /> </p>
-
----
-
-## 08 // BEYOND THE CODE
-
-☕ Debugging teaches patience better than meditation.
-
-🌙 Some of my best ideas appear late at night.
-
-🧠 I learn fastest when I build.
-
-🚀 Hackathons are where ideas get stress-tested.
-
-🔭 Curiosity is probably my most-used dependency.
-
----
-
-## 🏆 Experience & Activities
+## 06 // 🏆 Experience & Activities
 
 ### 🚀 Hackathons & Competitions
 
@@ -212,7 +174,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ---
 
-## 📰 Featured & Recognized
+## 07 // 📰 Featured & Recognized
 
 - **[Samsung Innovation Campus 2025](https://www.linkedin.com/pulse/ai-office-collaboration-samsung-gulf-electronics-qjncf/?trackingId=gPlXcmdYjwdB2ev9GQpWCw%3D%3D)**, **[Highlights](https://www.linkedin.com/posts/activity-7430534029713694720--pKb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)** — Featured for participating in the Samsung Innovation Program, celebrated the graduation of 130 students from across the Emirates.
 - **[Innovation Hackathon 2025-OCT](https://canva.link/m57zg37iofy2qmn)**, **[Highlights](https://www.instagram.com/uwl_uae/p/DQEXMUnkizi/?img_index=4)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event and highlighted our experience as the finalists.
@@ -220,7 +182,45 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ---
 
-## 10 // TRANSMISSION
+## 08 // COURSES & CERTIFICATIONS
+
+### 🏆 <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/">CERTIFICATE VAULT</a>
+
+> Structured learning beyond the classroom.
+
+<p style="font-size: 14px;">
+  • <strong>Future AWS AI Programmer Nanodegree Program</strong> — Udacity x AWS
+  <img src="https://img.shields.io/badge/Aug%202026%20%E2%86%92%20Present-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</p>
+
+<p style="font-size: 14px;">
+  • <strong>Artificial Intelligence Course</strong> — Samsung Innovation Campus 2025
+  <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20Nov%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</p>
+
+---
+
+## 09 // GITHUB TELEMETRY
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Thaspeeha&hide_border=true" /> </p>
+
+---
+
+## 10 // BEYOND THE CODE
+
+☕ Debugging teaches patience better than meditation.
+
+🌙 Some of my best ideas appear late at night.
+
+🧠 I learn fastest when I build.
+
+🚀 Hackathons are where ideas get stress-tested.
+
+🔭 Curiosity is probably my most-used dependency.
+
+---
+
+## 11 // TRANSMISSION
 
 If you're interested in AI engineering, software development, hackathons, automation, or building something interesting, let's connect.
 
