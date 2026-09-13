@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=THASPEEHA%20VAHITHU&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/> </p>
 
-<p align="center"> <a href="https://github.com/Thaspeeha"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+%C3%97+Software+%C3%97+Creativity;Building+intelligent+systems+from+idea+to+interface;Machine+Learning+%7C+APIs+%7C+Full-Stack;Turning+problems+into+things+people+can+use." /> </a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate%3BBackend+AI+Engineer+%40+FlyRank+AI%3BFull-Stack+Software+Developer%3BAI+Enthusiast+%26+Builder%3BAlways+Learning+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thaspeeha&style=for-the-badge&color=blue" />
