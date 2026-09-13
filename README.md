@@ -12,7 +12,7 @@
   <img src="./system-status-animated.svg" alt="System status: Thaspeeha.exe — online, AI/Software Engineer, BSc Computer Science, UAE" width="700"/>
 </div>
 
-Passionate about **AI**, **Machine Learning**, and **Software Development**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions through hands-on learning and hackathons.
+Backend AI Engineer (Intern) at FlyRank AI, building APIs with Python and FastAPI. I work across the full stack — front-end interfaces, back-end services, and ML models — and enjoy turning ideas into practical solutions through hands-on projects and hackathons.
 
 I enjoy taking an idea from:
 
@@ -238,7 +238,3 @@ Build things. Break things. Understand things. Build better things.
 <p align="center"> <sub>THASPEEHA // END OF TRANSMISSION</sub> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
-
----
-
-666678
