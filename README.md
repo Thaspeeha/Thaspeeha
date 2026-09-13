@@ -33,18 +33,14 @@ My current focus is on AI engineering, machine learning, backend development, au
 </p>
 
 <p align="center">
+  <strong>Also experienced with:</strong><br>
+  Pandas • NumPy • Scikit-Learn • Google Colab • SQL • Canva • Trello • ClickUp • Turbopack • Cursor
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,firebase,androidstudio,java,javascript,flask" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=turborepo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Also experienced with:</strong><br>
-  Pandas • NumPy • Scikit-Learn • Google Colab • Oracle SQL Developer • Canva • Trello • ClickUp • Wix • XML
-</p>
 
 ---
 
