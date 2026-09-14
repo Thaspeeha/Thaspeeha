@@ -125,7 +125,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 Professional experience gained while working on real-world software and AI-related challenges.
 
-### AI / ML INTERN
+### 🤖 AI / ML INTERN
 
 **Samsung Innovation Campus — AI/ML**
 
@@ -135,7 +135,7 @@ Participated in a structured AI/ML programme with weekly live sessions covering 
 
 ---
 
-### SOFTWARE DEVELOPER INTERN
+### ⚙️ SOFTWARE DEVELOPER INTERN
 
 **[Afzar Consultants LLC - Afzar Hydraulics](https://github.com/touseefspace/Afzar-Hydraulics)**
 
@@ -145,7 +145,7 @@ Worked on a Python-based simulation engine for engineering computations, transla
 
 ---
 
-### WEB DEVELOPMENT INTERN
+### 💻 WEB DEVELOPMENT INTERN
 
 **Medulla Productions & Consulting LLC**
 
@@ -161,17 +161,17 @@ Contributed to SaaS frontend development by building responsive UI components an
 
 A collection of challenges where I explored AI, sustainability, education, climate, health, automation, and product innovation.
 
-### CHALLENGES
+### 🚀 CHALLENGES
 
-- **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
-- **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
-- **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
-- **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
-- **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
-- **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
-- **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
+- 🛰️ **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
+- 🏆 **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
+- 🏁 **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
+- 🤖 **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
+- ☕ **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
+- 🌡️ **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
+- 💡 **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
 
-### THEMES
+### 🧭 THEMES
 
 `AI` · `Sustainability` · `Climate` · `Education` · `Health` · `Automation` · `Product Innovation`
 
