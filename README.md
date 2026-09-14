@@ -192,21 +192,9 @@ A collection of challenges where I explored AI, sustainability, education, clima
 
 ---
 
-## 08 // Training Deck
-
-### `ACTIVE`
-
-**AWS AI Programmer Nanodegree**
-
-`Udacity × AWS`
-
-`Aug 2026 — Present`
-
-### `COMPLETED`
-
-**Samsung Innovation Campus — AI**
-
-`Oct 2025 — Nov 2025`
+<div align="center">
+<img src="training-deck-animated.svg" alt="Training Deck"/>
+</div>
 
 #### 🏆 <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/">CERTIFICATE VAULT</a>
 
