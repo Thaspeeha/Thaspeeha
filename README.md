@@ -125,7 +125,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 Professional experience gained while working on real-world software and AI-related challenges.
 
-### AI / ML
+### AI / ML INTERN
 
 **Samsung Innovation Campus — AI/ML**
 
@@ -135,7 +135,7 @@ Participated in a structured AI/ML programme with weekly live sessions covering 
 
 ---
 
-### SOFTWARE ENGINEERING
+### SOFTWARE DEVELOPER INTERN
 
 **[Afzar Consultants LLC - Afzar Hydraulics](https://github.com/touseefspace/Afzar-Hydraulics)**
 
@@ -145,9 +145,9 @@ Worked on a Python-based simulation engine for engineering computations, transla
 
 ---
 
-### WEB ENGINEERING
+### WEB DEVELOPMENT INTERN
 
-**Medulla Productions & Consulting LLC — Web Development Intern**
+**Medulla Productions & Consulting LLC**
 
 `Aug 2025 — Dec 2025`
 
@@ -189,8 +189,8 @@ A collection of challenges where I explored AI, sustainability, education, clima
 | 2025 | NASA Space Apps | 🌎 **Global Nominee** |
 | 2025 | NASA Space Apps | 🏅 **Honorable Mention** |
 | 2025 | Samsung Innovation Campus | 🤖 **AI Course Participant** |
-| 2025 | Innovation Hackathon | **Hackathon Finalist** | 
-| 2023 | Innovation Challenge Program and Growth Summit by FAB | **Hackathon Finalist** | 
+| 2025 | Innovation Hackathon | 🏁 **Hackathon Finalist** | 
+| 2023 | Innovation Challenge Program and Growth Summit by FAB | 🏁 **Hackathon Finalist** | 
 
 ---
 
@@ -255,9 +255,7 @@ A collection of challenges where I explored AI, sustainability, education, clima
 
 <div align="center">
 
-### ALWAYS LEARNING.
-### ALWAYS BUILDING.
-### ALWAYS SHIPPING.
+#### ALWAYS LEARNING. ALWAYS BUILDING. ALWAYS SHIPPING.
 
 <br>
 
