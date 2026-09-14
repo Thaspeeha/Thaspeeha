@@ -43,7 +43,84 @@ My current focus is on AI engineering, machine learning, backend development, au
 
 ---
 
-## 03 // MISSIONS
+## 03 // FIELD OPERATIONS
+
+Professional experience gained while working on real-world software and AI-related challenges.
+
+### 🤖 AI / ML INTERN
+
+**Samsung Innovation Campus — AI/ML**
+
+`Oct 2025 — Nov 2025`
+
+Participated in a structured AI/ML programme with weekly live sessions covering machine learning fundamentals, model development, and applied project work.
+
+---
+
+### ⚙️ SOFTWARE DEVELOPER INTERN
+
+**[Afzar Consultants LLC - Afzar Hydraulics](https://github.com/touseefspace/Afzar-Hydraulics)**
+
+`Jun 2025 — Jul 2025`
+
+Worked on a Python-based simulation engine for engineering computations, translating mathematical formulas into backend algorithms and supporting testing, validation, and documentation.
+
+---
+
+### 💻 WEB DEVELOPMENT INTERN
+
+**Medulla Productions & Consulting LLC**
+
+`Aug 2025 — Dec 2025`
+
+Contributed to SaaS frontend development by building responsive UI components and data-driven interfaces, translating requirements into usable features, and collaborating on testing and code review.
+
+---
+
+## 04 // HACKATHON LAB
+
+> **Where ideas get stress-tested.**
+
+A collection of challenges where I explored AI, sustainability, education, climate, health, automation, and product innovation.
+
+### 🚀 CHALLENGES
+
+- 🛰️ **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
+- 🏆 **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
+- 🏁 **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
+- 🤖 **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
+- ☕ **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
+- 🌡️ **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
+- 💡 **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
+
+### 🧭 THEMES
+
+`AI` · `Sustainability` · `Climate` · `Education` · `Health` · `Automation` · `Product Innovation`
+
+---
+
+## 05 // 💻 ACADEMIC MISSIONS
+
+- **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
+- **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
+- **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
+- **[Artificial Intelligence](https://github.com/Thaspeeha/Artificial-Intelligence)**
+- **[E-Commerce Web Development](https://github.com/Thaspeeha/E-Commerce_Web_Development)**
+- **[UI-UX App Development](https://github.com/Thaspeeha/UI-UX_App_Development)**
+- **[Programming Project](https://github.com/Thaspeeha/Programming-Project)**
+
+---
+
+## 06 // 🔨 SIDE MISSIONS
+
+- **[MiniCart](https://github.com/Thaspeeha/MiniCart)**
+- **[Python Project](https://github.com/Thaspeeha/Python-Project)**
+- **[codealpha tasks](https://github.com/Thaspeeha/codealpha_tasks)**
+- **[Personal Portfolio Website](https://github.com/Thaspeeha/Personal-Portfolio-Website)** - *Under Development*
+
+---
+
+## 07 // MISSIONS
 
 > Not just projects. Experiments in turning ideas into systems.
 
@@ -121,63 +198,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ---
 
-## 05 // FIELD OPERATIONS
-
-Professional experience gained while working on real-world software and AI-related challenges.
-
-### 🤖 AI / ML INTERN
-
-**Samsung Innovation Campus — AI/ML**
-
-`Oct 2025 — Nov 2025`
-
-Participated in a structured AI/ML programme with weekly live sessions covering machine learning fundamentals, model development, and applied project work.
-
----
-
-### ⚙️ SOFTWARE DEVELOPER INTERN
-
-**[Afzar Consultants LLC - Afzar Hydraulics](https://github.com/touseefspace/Afzar-Hydraulics)**
-
-`Jun 2025 — Jul 2025`
-
-Worked on a Python-based simulation engine for engineering computations, translating mathematical formulas into backend algorithms and supporting testing, validation, and documentation.
-
----
-
-### 💻 WEB DEVELOPMENT INTERN
-
-**Medulla Productions & Consulting LLC**
-
-`Aug 2025 — Dec 2025`
-
-Contributed to SaaS frontend development by building responsive UI components and data-driven interfaces, translating requirements into usable features, and collaborating on testing and code review.
-
----
-
-## 06 // HACKATHON LAB
-
-> **Where ideas get stress-tested.**
-
-A collection of challenges where I explored AI, sustainability, education, climate, health, automation, and product innovation.
-
-### 🚀 CHALLENGES
-
-- 🛰️ **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
-- 🏆 **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
-- 🏁 **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
-- 🤖 **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
-- ☕ **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
-- 🌡️ **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
-- 💡 **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
-
-### 🧭 THEMES
-
-`AI` · `Sustainability` · `Climate` · `Education` · `Health` · `Automation` · `Product Innovation`
-
----
-
-## 07 //  MISSION ACCOLADES
+## 06 //  MISSION ACCOLADES
 
 > Recognition collected along the way.
 
@@ -194,32 +215,13 @@ A collection of challenges where I explored AI, sustainability, education, clima
 
 ---
 
-## 08 // TRAINING DECK
+## 07 // TRAINING DECK
 
 <div align="center">
 <img src="training-deck-animated.svg" alt="Training Deck"/>
 </div>
 
 #### 🏆 <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/">CERTIFICATE VAULT</a>
-
----
-
-## 09 // 💻 University Projects
-
-- **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
-- **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
-- **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
-- **[Artificial Intelligence](https://github.com/Thaspeeha/Artificial-Intelligence)**
-- **[E-Commerce Web Development](https://github.com/Thaspeeha/E-Commerce_Web_Development)**
-- **[UI-UX App Development](https://github.com/Thaspeeha/UI-UX_App_Development)**
-- **[Programming Project](https://github.com/Thaspeeha/Programming-Project)**
-
-### 🔨 Personal Projects
-
-- **[MiniCart](https://github.com/Thaspeeha/MiniCart)**
-- **[Python Project](https://github.com/Thaspeeha/Python-Project)**
-- **[codealpha tasks](https://github.com/Thaspeeha/codealpha_tasks)**
-- **[Personal Portfolio Website](https://github.com/Thaspeeha/Personal-Portfolio-Website)** - *Under Development*
 
 ---
 
