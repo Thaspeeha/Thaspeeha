@@ -26,7 +26,7 @@ My current focus is on AI engineering, machine learning, backend development, au
  
 ---
 
-## 02 // TECH STACK 
+## 02 // TECH ARSENAL 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,nodejs,pytorch,vercel,mongodb,git,github,vscode,figma,tensorflow,docker,tailwind" />
@@ -120,18 +120,108 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ---
 
-## 05 // ACHIEVEMENT UNLOCKED
+## `04 // FIELD OPERATIONS`
 
-| Achievement |	Status |
-|--|--|
-🛰️ NASA Space Apps | 🏆 Local Winner
-🌍 NASA Space Apps	| 🌐 Global Nominee
-🌱 TerraQuest |	🏆 EISC Winner
-🌡️ UAE HeatLens	|🚀 Innovation Project
-🧠 Explainable AI |	🚀 Completed
-💻 Full-Stack Development	|⚡ Building
-🤖 AI Engineering	|🔥 Current Focus
-  
+Professional experience gained while working on real-world software and AI-related challenges.
+
+### AI / ML
+
+**Samsung Innovation Campus — AI/ML**
+
+`Oct 2025 — Nov 2025`
+
+Participated in a structured AI/ML programme with weekly live sessions covering machine learning fundamentals, model development, and applied project work.
+
+---
+
+### SOFTWARE ENGINEERING
+
+**[Afzar Consultants LLC - Afzar Hydraulics](https://github.com/touseefspace/Afzar-Hydraulics)**
+
+`Jun 2025 — Jul 2025`
+
+Worked on a Python-based simulation engine for engineering computations, translating mathematical formulas into backend algorithms and supporting testing, validation, and documentation.
+
+---
+
+### WEB ENGINEERING
+
+**Medulla Productions & Consulting LLC — Web Development Intern**
+
+`Aug 2025 — Dec 2025`
+
+Contributed to SaaS frontend development by building responsive UI components and data-driven interfaces, translating requirements into usable features, and collaborating on testing and code review.
+
+---
+
+## `05 // HACKATHON LAB`
+
+> **Where ideas get stress-tested.**
+
+A collection of challenges where I explored AI, sustainability, education, climate, health, automation, and product innovation.
+
+### CHALLENGES
+
+- **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
+- **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
+- **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
+- **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
+- **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
+- **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
+- **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
+
+### THEMES
+
+`AI` · `Sustainability` · `Climate` · `Education` · `Health` · `Automation` · `Product Innovation`
+
+---
+
+## `06 // ACHIEVEMENT LOG`
+
+### 🏆 RAK EISC 2026
+
+**National Student Competition on Technology & Sustainability**
+
+`WINNER`
+
+Represented the University of West London — RAK Branch.
+
+### 🛰️ NASA SPACE APPS CHALLENGE 2025
+
+`LOCAL WINNER — AJMAN`
+
+`GLOBAL NOMINEE`
+
+`HONORABLE MENTION`
+
+### 🤖 SAMSUNG INNOVATION CAMPUS
+
+**AI Course Participant**
+
+Focused on AI/ML fundamentals, model development, and applied learning.
+
+### 🚀 CREATE APPS CHAMPIONSHIP 2025/26
+
+**High-Potential Team**
+
+---
+
+## `07 // LEARNING QUEUE`
+
+### `ACTIVE`
+
+**AWS AI Programmer Nanodegree**
+
+`Udacity × AWS`
+
+`Aug 2026 — Present`
+
+### `COMPLETED`
+
+**Samsung Innovation Campus — AI**
+
+`Oct 2025 — Jan 2026`
+
 ---
 
 ## 06 // 🏆 Experience & Activities
@@ -218,23 +308,27 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ## 11 // TRANSMISSION
 
-If you're interested in AI engineering, software development, hackathons, automation, or building something interesting, let's connect.
+<div align="center">
+
+### ALWAYS LEARNING.
+### ALWAYS BUILDING.
+### ALWAYS SHIPPING.
+
+<br>
+
+> **The mission is not to build more software.**  
+> **It's to build software that matters.**
+
+<br>
+
+`THASPEEHA VAHITHU`
+
+**AI × SOFTWARE × CREATIVITY**
 
 <p align="center"> <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:vahithuthaspeeha@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> </p>
 
-<p align="center">
+</div>
 
-Build things. Break things. Understand things. Build better things.
-
-</p>
-
-<p align="center">
-  <i>"Learning never exhausts the mind."</i><br>
-  — Leonardo da Vinci
-</p>
-
-<p align="center"> <sub>THASPEEHA // END OF TRANSMISSION</sub> </p>
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
+---
