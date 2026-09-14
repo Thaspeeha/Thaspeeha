@@ -41,7 +41,6 @@ My current focus is on AI engineering, machine learning, backend development, au
   <img src="https://skillicons.dev/icons?i=html,css,firebase,androidstudio,java,javascript,flask" />
 </p>
 
-
 ---
 
 ## 03 // MISSIONS
@@ -72,6 +71,8 @@ Best model
 → Global feature importance
 → Clinician-focused interface
 → Multiple explanation modes
+
+`💻 University Project`
 
 <h3>
   🛰️ MISSION 02 - NASA Space Apps
@@ -120,7 +121,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ---
 
-## `04 // FIELD OPERATIONS`
+## 04 // FIELD OPERATIONS
 
 Professional experience gained while working on real-world software and AI-related challenges.
 
@@ -154,7 +155,7 @@ Contributed to SaaS frontend development by building responsive UI components an
 
 ---
 
-## `05 // HACKATHON LAB`
+## 05 // HACKATHON LAB
 
 > **Where ideas get stress-tested.**
 
@@ -176,7 +177,7 @@ A collection of challenges where I explored AI, sustainability, education, clima
 
 ---
 
-## `06 // ACHIEVEMENT LOG`
+## 06 // ACHIEVEMENT LOG
 
 ### 🏆 RAK EISC 2026
 
@@ -206,7 +207,7 @@ Focused on AI/ML fundamentals, model development, and applied learning.
 
 ---
 
-## `07 // LEARNING QUEUE`
+## 07 // LEARNING QUEUE
 
 ### `ACTIVE`
 
@@ -220,28 +221,13 @@ Focused on AI/ML fundamentals, model development, and applied learning.
 
 **Samsung Innovation Campus — AI**
 
-`Oct 2025 — Jan 2026`
+`Oct 2025 — Nov 2025`
+
+#### 🏆 <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/">CERTIFICATE VAULT</a>
 
 ---
 
-## 06 // 🏆 Experience & Activities
-
-### 🚀 Hackathons & Competitions
-
-- **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
-- **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
-- **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
-- **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
-- **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
-- **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
-- **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
-
-### 🏆 Experience
-
-- Medulla Products and Consulting LLC - Web Development Intern
-- **[Afzar Consultants LLC - Afzar Hydraulics](https://github.com/touseefspace/Afzar-Hydraulics)**
-
-### 💻 University Projects
+## 08 // 💻 University Projects
 
 - **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
 - **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
@@ -260,7 +246,7 @@ Focused on AI/ML fundamentals, model development, and applied learning.
 
 ---
 
-## 07 // 📰 Featured & Recognized
+## 09 // 📰 Featured & Recognized
 
 - **[Samsung Innovation Campus 2025](https://www.linkedin.com/pulse/ai-office-collaboration-samsung-gulf-electronics-qjncf/?trackingId=gPlXcmdYjwdB2ev9GQpWCw%3D%3D)**, **[Highlights](https://www.linkedin.com/posts/activity-7430534029713694720--pKb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)** — Featured for participating in the Samsung Innovation Program, celebrated the graduation of 130 students from across the Emirates.
 - **[Innovation Hackathon 2025-OCT](https://canva.link/m57zg37iofy2qmn)**, **[Highlights](https://www.instagram.com/uwl_uae/p/DQEXMUnkizi/?img_index=4)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event and highlighted our experience as the finalists.
@@ -268,31 +254,13 @@ Focused on AI/ML fundamentals, model development, and applied learning.
 
 ---
 
-## 08 // COURSES & CERTIFICATIONS
-
-### 🏆 <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/">CERTIFICATE VAULT</a>
-
-> Structured learning beyond the classroom.
-
-<p style="font-size: 14px;">
-  • <strong>Future AWS AI Programmer Nanodegree Program</strong> — Udacity x AWS
-  <img src="https://img.shields.io/badge/Aug%202026%20%E2%86%92%20Present-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
-</p>
-
-<p style="font-size: 14px;">
-  • <strong>Artificial Intelligence Course</strong> — Samsung Innovation Campus 2025
-  <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20Nov%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
-</p>
-
----
-
-## 09 // GITHUB TELEMETRY
+## 10 // GITHUB TELEMETRY
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Thaspeeha&hide_border=true" /> </p>
 
 ---
 
-## 10 // BEYOND THE CODE
+## 11 // BEYOND THE CODE
 
 ☕ Debugging teaches patience better than meditation.
 
@@ -306,7 +274,7 @@ Focused on AI/ML fundamentals, model development, and applied learning.
 
 ---
 
-## 11 // TRANSMISSION
+## 12 // TRANSMISSION
 
 <div align="center">
 
