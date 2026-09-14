@@ -101,6 +101,8 @@ A collection of challenges where I explored AI, sustainability, education, clima
 
 ## 05 // 💻 ACADEMIC MISSIONS
 
+> Not just projects. Experiments in turning ideas into systems.
+
 - **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
 - **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
 - **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
@@ -198,7 +200,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ---
 
-## 06 //  MISSION ACCOLADES
+## 08 //  MISSION ACCOLADES
 
 > Recognition collected along the way.
 
@@ -215,7 +217,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ---
 
-## 07 // TRAINING DECK
+## 09 // TRAINING DECK
 
 <div align="center">
 <img src="training-deck-animated.svg" alt="Training Deck"/>
