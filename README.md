@@ -121,7 +121,7 @@ ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
 
 ---
 
-## 04 // FIELD OPERATIONS
+## 05 // FIELD OPERATIONS
 
 Professional experience gained while working on real-world software and AI-related challenges.
 
@@ -155,7 +155,7 @@ Contributed to SaaS frontend development by building responsive UI components an
 
 ---
 
-## 05 // HACKATHON LAB
+## 06 // HACKATHON LAB
 
 > **Where ideas get stress-tested.**
 
@@ -177,37 +177,22 @@ A collection of challenges where I explored AI, sustainability, education, clima
 
 ---
 
-## 06 // ACHIEVEMENT LOG
+## 07 //  MISSION ACCOLADES
 
-### 🏆 RAK EISC 2026
+> Recognition collected along the way.
 
-**National Student Competition on Technology & Sustainability**
-
-`WINNER`
-
-Represented the University of West London — RAK Branch.
-
-### 🛰️ NASA SPACE APPS CHALLENGE 2025
-
-`LOCAL WINNER — AJMAN`
-
-`GLOBAL NOMINEE`
-
-`HONORABLE MENTION`
-
-### 🤖 SAMSUNG INNOVATION CAMPUS
-
-**AI Course Participant**
-
-Focused on AI/ML fundamentals, model development, and applied learning.
-
-### 🚀 CREATE APPS CHAMPIONSHIP 2025/26
-
-**High-Potential Team**
+| YEAR | MISSION | OUTCOME |
+|------|---------|---------|
+| 2026 | RAK EISC | 🏆 **WINNER** |
+| 2025 | NASA Space Apps | 🛰️ **Local Winner — Ajman** |
+| 2025 | NASA Space Apps | 🌎 **Global Nominee** |
+| 2025 | NASA Space Apps | 🏅 **Honorable Mention** |
+| 2025 | Samsung Innovation Campus | 🤖 **AI Course Participant** |
+| 2025/26 | Create Apps Championship | 🚀 **High-Potential Team** |
 
 ---
 
-## 07 // LEARNING QUEUE
+## 08 // Training Deck
 
 ### `ACTIVE`
 
@@ -227,7 +212,7 @@ Focused on AI/ML fundamentals, model development, and applied learning.
 
 ---
 
-## 08 // 💻 University Projects
+## 09 // 💻 University Projects
 
 - **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
 - **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
@@ -246,7 +231,7 @@ Focused on AI/ML fundamentals, model development, and applied learning.
 
 ---
 
-## 09 // 📰 Featured & Recognized
+## 10 // 📰 Featured & Recognized
 
 - **[Samsung Innovation Campus 2025](https://www.linkedin.com/pulse/ai-office-collaboration-samsung-gulf-electronics-qjncf/?trackingId=gPlXcmdYjwdB2ev9GQpWCw%3D%3D)**, **[Highlights](https://www.linkedin.com/posts/activity-7430534029713694720--pKb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)** — Featured for participating in the Samsung Innovation Program, celebrated the graduation of 130 students from across the Emirates.
 - **[Innovation Hackathon 2025-OCT](https://canva.link/m57zg37iofy2qmn)**, **[Highlights](https://www.instagram.com/uwl_uae/p/DQEXMUnkizi/?img_index=4)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event and highlighted our experience as the finalists.
@@ -254,13 +239,13 @@ Focused on AI/ML fundamentals, model development, and applied learning.
 
 ---
 
-## 10 // GITHUB TELEMETRY
+## 11 // GITHUB TELEMETRY
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Thaspeeha&hide_border=true" /> </p>
 
 ---
 
-## 11 // BEYOND THE CODE
+## 12 // BEYOND THE CODE
 
 ☕ Debugging teaches patience better than meditation.
 
@@ -274,7 +259,7 @@ Focused on AI/ML fundamentals, model development, and applied learning.
 
 ---
 
-## 12 // TRANSMISSION
+## 13 // TRANSMISSION
 
 <div align="center">
 
