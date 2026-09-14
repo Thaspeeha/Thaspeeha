@@ -184,11 +184,13 @@ A collection of challenges where I explored AI, sustainability, education, clima
 | YEAR | MISSION | OUTCOME |
 |------|---------|---------|
 | 2026 | RAK EISC | 🏆 **WINNER** |
+| 2025/26 | Create Apps Championship | 🚀 **High-Potential Team** |
 | 2025 | NASA Space Apps | 🛰️ **Local Winner — Ajman** |
 | 2025 | NASA Space Apps | 🌎 **Global Nominee** |
 | 2025 | NASA Space Apps | 🏅 **Honorable Mention** |
 | 2025 | Samsung Innovation Campus | 🤖 **AI Course Participant** |
-| 2025/26 | Create Apps Championship | 🚀 **High-Potential Team** |
+| 2025 | Innovation Hackathon | **Hackathon Finalist** | 
+| 2023 | Innovation Challenge Program and Growth Summit by FAB | **Hackathon Finalist** | 
 
 ---
 
