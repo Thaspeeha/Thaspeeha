@@ -192,6 +192,8 @@ A collection of challenges where I explored AI, sustainability, education, clima
 
 ---
 
+## 08 // TRAINING DECK
+
 <div align="center">
 <img src="training-deck-animated.svg" alt="Training Deck"/>
 </div>
