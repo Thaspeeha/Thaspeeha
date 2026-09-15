@@ -49,9 +49,9 @@ Professional experience gained while working on real-world software and AI-relat
 
 ### 🤖 AI / ML INTERN
 
-**Samsung Innovation Campus — AI/ML**
+**Samsung Innovation Campus — AI/ML, Dubai**
 
-`Oct 2025 — Nov 2025`
+`Oct 2025 — Nov 2025` · `Remote`
 
 Participated in a structured AI/ML programme with weekly live sessions covering machine learning fundamentals, model development, and applied project work.
 
@@ -59,9 +59,9 @@ Participated in a structured AI/ML programme with weekly live sessions covering 
 
 ### ⚙️ SOFTWARE DEVELOPER INTERN
 
-**[Afzar Consultants LLC - Afzar Hydraulics](https://github.com/touseefspace/Afzar-Hydraulics)**
+**[Afzar Consultants LLC - Afzar Hydraulics, Sharjah](https://github.com/touseefspace/Afzar-Hydraulics)**
 
-`Jun 2025 — Jul 2025`
+`Jun 2025 — Jul 2025` · `Remote`
 
 Worked on a Python-based simulation engine for engineering computations, translating mathematical formulas into backend algorithms and supporting testing, validation, and documentation.
 
@@ -69,9 +69,9 @@ Worked on a Python-based simulation engine for engineering computations, transla
 
 ### 💻 WEB DEVELOPMENT INTERN
 
-**Medulla Productions & Consulting LLC**
+**Medulla Productions & Consulting LLC, Sharjah**
 
-`Aug 2025 — Dec 2025`
+`Aug 2025 — Dec 2025` · `Remote`
 
 Contributed to SaaS frontend development by building responsive UI components and data-driven interfaces, translating requirements into usable features, and collaborating on testing and code review.
 
