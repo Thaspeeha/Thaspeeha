@@ -29,7 +29,7 @@ My current focus is on AI engineering, machine learning, backend development, au
 ## 02 // TECH ARSENAL 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,nodejs,pytorch,vercel,mongodb,git,github,vscode,figma,tensorflow,docker,tailwind,r" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,nodejs,pytorch,vercel,mongodb,git,github,vscode,figma,tensorflow,docker" />
 </p>
 
 <p align="center">
