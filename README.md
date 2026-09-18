@@ -85,12 +85,48 @@ A collection of challenges where I explored AI, sustainability, education, clima
 
 ### 🚀 CHALLENGES
 
-- 🛰️ **[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
-- 🏆 **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
+<h3>
+  🛰️ MISSION 01 - NASA Space Apps
+  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
+
+**[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
+
+A platform for monitoring, analysing and forecasting plant blooming events using Earth-observation data and open datasets.
+
+`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🏆 HONORABLE MENTION` · `🛰️ NASA SPACE APPS 2025`
+
+<h3>
+  🌱 MISSION 02 - TerraQuest
+  <img src="https://img.shields.io/badge/January%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
+
+**[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
+
+A gamified sustainability platform designed to turn environmentally friendly actions into measurable impact.
+
+ECO ACTION → USER ENGAGEMENT → MEASURABLE IMPACT
+
+`🌱 EISC 2026` · `🏆 WINNER` · `🎮 GAMIFICATION` · `🌍 SUSTAINABILITY`
 - 🏁 **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
 - 🤖 **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
 - ☕ **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
-- 🌡️ **[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
+
+<h3>
+  🌡️ MISSION 06 - UAE HeatLens
+  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
+
+**[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
+
+An urban analytics concept focused on understanding and mitigating Urban Heat Island effects in dense environments such as Downtown Dubai.
+
+DATA → ANALYSIS → VISUALISATION → INSIGHT
+
+Built around the intersection of:
+
+AI × Data × Sustainability × Urban Innovation
+
 - 💡 **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
 
 ### 🧭 THEMES
@@ -103,34 +139,8 @@ A collection of challenges where I explored AI, sustainability, education, clima
 
 > Not just projects. Experiments in turning ideas into systems.
 
-- **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
-- **[Databases & Analytics](https://github.com/Thaspeeha/DBA-Colab-Notebooks)**
-- **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
-- **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
-- **[Artificial Intelligence](https://github.com/Thaspeeha/Artificial-Intelligence)**
-- **[E-Commerce Web Development](https://github.com/Thaspeeha/E-Commerce_Web_Development)**
-- **[UI-UX App Development](https://github.com/Thaspeeha/UI-UX_App_Development)**
-- **[Programming Project](https://github.com/Thaspeeha/Programming-Project)**
-
----
-
-## 06 // 🔨 SIDE MISSIONS
-
-- **[Student-Performance-AI-Analysis](https://github.com/Thaspeeha/Student-Performance-AI-Analysis)**
-- **[Study-Burnout-Detector](https://github.com/Thaspeeha/Study-Burnout-Detector)**
-- **[MiniCart](https://github.com/Thaspeeha/MiniCart)**
-- **[Python Project](https://github.com/Thaspeeha/Python-Project)**
-- **[codealpha tasks](https://github.com/Thaspeeha/codealpha_tasks)**
-- **[Personal Portfolio Website](https://github.com/Thaspeeha/Personal-Portfolio-Website)** - *Under Development*
-
----
-
-## 07 // MISSIONS
-
-> Not just projects. Experiments in turning ideas into systems.
-
-<h3>
-  🧠 MISSION 01 - Explainable AI
+- <h3>
+  🧠 MISSION 07 - Explainable AI
   <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20May%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
@@ -156,44 +166,23 @@ Best model
 
 `💻 University Project`
 
-<h3>
-  🛰️ MISSION 02 - NASA Space Apps
-  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
-</h3>
+- **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
+- **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
+- **[Artificial Intelligence](https://github.com/Thaspeeha/Artificial-Intelligence)**
+- **[E-Commerce Web Development](https://github.com/Thaspeeha/E-Commerce_Web_Development)**
+- **[UI-UX App Development](https://github.com/Thaspeeha/UI-UX_App_Development)**
+- **[Programming Project](https://github.com/Thaspeeha/Programming-Project)**
 
-**[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
+---
 
-A platform for monitoring, analysing and forecasting plant blooming events using Earth-observation data and open datasets.
+## 06 // 🔨 SIDE MISSIONS
 
-`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🏆 HONORABLE MENTION` · `🛰️ NASA SPACE APPS 2025`
-
-<h3>
-  🌡️ MISSION 03 - UAE HeatLens
-  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
-</h3>
-
-**[Innovation Hackathon 2025](https://github.com/Thaspeeha/Urban-Heat)**
-
-An urban analytics concept focused on understanding and mitigating Urban Heat Island effects in dense environments such as Downtown Dubai.
-
-DATA → ANALYSIS → VISUALISATION → INSIGHT
-
-Built around the intersection of:
-
-AI × Data × Sustainability × Urban Innovation
-
-<h3>
-  🌱 MISSION 04 - TerraQuest
-  <img src="https://img.shields.io/badge/January%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
-</h3>
-
-**[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
-
-A gamified sustainability platform designed to turn environmentally friendly actions into measurable impact.
-
-ECO ACTION → USER ENGAGEMENT → MEASURABLE IMPACT
-
-`🌱 EISC 2026` · `🏆 WINNER` · `🎮 GAMIFICATION` · `🌍 SUSTAINABILITY`
+- **[Student-Performance-AI-Analysis](https://github.com/Thaspeeha/Student-Performance-AI-Analysis)**
+- **[Study-Burnout-Detector](https://github.com/Thaspeeha/Study-Burnout-Detector)**
+- **[MiniCart](https://github.com/Thaspeeha/MiniCart)**
+- **[Python Project](https://github.com/Thaspeeha/Python-Project)**
+- **[codealpha tasks](https://github.com/Thaspeeha/codealpha_tasks)**
+- **[Personal Portfolio Website](https://github.com/Thaspeeha/Personal-Portfolio-Website)** - *Under Development*
 
 ---
 
