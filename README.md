@@ -224,7 +224,7 @@ ECO ACTION → USER ENGAGEMENT → MEASURABLE IMPACT
 
 #### 🏆 <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/">CERTIFICATE VAULT</a>
 
-2 phases ( AWS AI Practitioner Challenge Phase (Apr - June), 'Completed' -> Future AWS AI Programmer Nanodegree Phase, 'Aug 2026 - Present' )
+2 phases ( AWS AI Practitioner Challenge Phase (Mar - June), 'Completed' -> Future AWS AI Programmer Nanodegree Phase, 'Aug 2026 - Present' )
 
 <div align="center">
 <img src="training-deck-animated.svg" alt="Training Deck"/>
