@@ -189,6 +189,7 @@ Best model
 
 `💻 University Project`
 
+- **[Databases & Analytics](https://github.com/Thaspeeha/DBA-Colab-Notebooks)**
 - **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
 - **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
 - **[Artificial Intelligence](https://github.com/Thaspeeha/Artificial-Intelligence)**
