@@ -83,22 +83,9 @@ Contributed to SaaS frontend development by building responsive UI components an
 
 A collection of challenges where I explored AI, sustainability, education, climate, health, automation, and product innovation.
 
-### 🚀 CHALLENGES
-
 <h3>
-  🛰️ MISSION 01 - NASA Space Apps
-  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
-</h3>
-
-**[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
-
-A platform for monitoring, analysing and forecasting plant blooming events using Earth-observation data and open datasets.
-
-`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🏆 HONORABLE MENTION` · `🛰️ NASA SPACE APPS 2025`
-
-<h3>
-  🌱 MISSION 02 - TerraQuest
-  <img src="https://img.shields.io/badge/January%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+  🌱 MISSION 01 - TerraQuest
+  <img src="https://img.shields.io/badge/Nov%202025%20%E2%86%92%20Jan%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
 **[National Student Competition on Technology and Sustainability - RAK EISC 2026](https://github.com/Thaspeeha/Terra-Quest)**
@@ -110,28 +97,28 @@ ECO ACTION → USER ENGAGEMENT → MEASURABLE IMPACT
 `🌱 EISC 2026` · `🏆 WINNER` · `🎮 GAMIFICATION` · `🌍 SUSTAINABILITY`
 
 <h3>
-  🏁 MISSION 03 - SehaQuest
-  <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20Feb%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+  🏁 MISSION 02 - SehaQuest
+  <img src="https://img.shields.io/badge/Dec%202025%20%E2%86%92%20Feb%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
 **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
 
 <h3>
-  🤖 MISSION 04 - Nova Health
+  🤖 MISSION 03 - Nova Health
   <img src="https://img.shields.io/badge/Nov%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
 **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
 
 <h3>
-  ☕ MISSION 05 - StarBrew Lens
+  ☕ MISSION 04 - StarBrew Lens
   <img src="https://img.shields.io/badge/Nov%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
 **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
 
 <h3>
-  🌡️ MISSION 06 - UAE HeatLens
+  🌡️ MISSION 05 - UAE HeatLens
   <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
@@ -144,6 +131,17 @@ DATA → ANALYSIS → VISUALISATION → INSIGHT
 Built around the intersection of:
 
 AI × Data × Sustainability × Urban Innovation
+
+<h3>
+  🛰️ MISSION 06 - NASA Space Apps
+  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
+
+**[NASA Space Apps Challenge 2025](https://github.com/Thaspeeha/Anthos-Terra-NASA-2025)**
+
+A platform for monitoring, analysing and forecasting plant blooming events using Earth-observation data and open datasets.
+
+`🏆 LOCAL WINNER` · `🌍 GLOBAL NOMINEE` · `🏆 HONORABLE MENTION` · `🛰️ NASA SPACE APPS 2025`
 
 <h3>
   💡 MISSION 07 - Payit App Features Pitch
