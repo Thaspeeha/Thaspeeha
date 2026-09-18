@@ -104,7 +104,7 @@ A collection of challenges where I explored AI, sustainability, education, clima
 > Not just projects. Experiments in turning ideas into systems.
 
 - **[Explainable AI For Breast Cancer Diagnosis](https://github.com/Thaspeeha/Explainable-AI-For-Breast-Cancer-Diagnosis)**
-- **[Database Analytics](https://github.com/Thaspeeha/DBA-Colab-Notebooks)**
+- **[Databases & Analytics](https://github.com/Thaspeeha/DBA-Colab-Notebooks)**
 - **[Machine Learning](https://github.com/Thaspeeha/Machine-Learning)**
 - **[Mobile Web App Development](https://github.com/Thaspeeha/Mobile-Web-App-Development)**
 - **[Artificial Intelligence](https://github.com/Thaspeeha/Artificial-Intelligence)**
