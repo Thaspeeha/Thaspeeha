@@ -191,7 +191,7 @@ AI × Data × Sustainability × Urban Innovation
 
 A gamified sustainability platform designed to turn environmentally friendly actions into measurable impact.
 
-ECO ACTION → GAME MECHANICS → USER ENGAGEMENT → MEASURABLE IMPACT
+ECO ACTION → USER ENGAGEMENT → MEASURABLE IMPACT
 
 `🌱 EISC 2026` · `🏆 WINNER` · `🎮 GAMIFICATION` · `🌍 SUSTAINABILITY`
 
