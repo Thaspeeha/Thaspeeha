@@ -108,9 +108,27 @@ A gamified sustainability platform designed to turn environmentally friendly act
 ECO ACTION → USER ENGAGEMENT → MEASURABLE IMPACT
 
 `🌱 EISC 2026` · `🏆 WINNER` · `🎮 GAMIFICATION` · `🌍 SUSTAINABILITY`
-- 🏁 **[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
-- 🤖 **[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
-- ☕ **[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
+
+<h3>
+  🏁 MISSION 03 - SehaQuest
+  <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20Feb%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
+
+**[Create Apps Championship 2025-26](https://github.com/Thaspeeha/Seha-Quest)**
+
+<h3>
+  🤖 MISSION 04 - Nova Health
+  <img src="https://img.shields.io/badge/Nov%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
+
+**[AI Genesis 2025](https://github.com/Thaspeeha/Nova-Health)**
+
+<h3>
+  ☕ MISSION 05 - StarBrew Lens
+  <img src="https://img.shields.io/badge/Nov%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
+
+**[META x Starbucks Student Hackathon 2025](https://github.com/Thaspeeha/StarBrew-Lens)**
 
 <h3>
   🌡️ MISSION 06 - UAE HeatLens
@@ -128,8 +146,8 @@ Built around the intersection of:
 AI × Data × Sustainability × Urban Innovation
 
 <h3>
-  💡 MISSION 07 - UAE HeatLens
-  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+  💡 MISSION 07 - Payit App Features Pitch
+  <img src="https://img.shields.io/badge/October%202023-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
 **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
