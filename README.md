@@ -127,7 +127,12 @@ Built around the intersection of:
 
 AI × Data × Sustainability × Urban Innovation
 
-- 💡 **[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
+<h3>
+  💡 MISSION 07 - UAE HeatLens
+  <img src="https://img.shields.io/badge/October%202025-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
+</h3>
+
+**[Payit App Features Pitch](https://github.com/Thaspeeha/Payit-App-Features-Pitch)**
 
 ### 🧭 THEMES
 
@@ -139,8 +144,8 @@ AI × Data × Sustainability × Urban Innovation
 
 > Not just projects. Experiments in turning ideas into systems.
 
-- <h3>
-  🧠 MISSION 07 - Explainable AI
+<h3>
+  🧠 MISSION 08 - Explainable AI
   <img src="https://img.shields.io/badge/Oct%202025%20%E2%86%92%20May%202026-6366F1?style=flat-square&logo=calendar&logoColor=white" align="right"/>
 </h3>
 
