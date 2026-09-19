@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate%3BBackend+AI+Engineer+%40+FlyRank+AI%3BFull-Stack+Software+Developer%3BAI+Enthusiast+%26+Builder%3BAlways+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate%3BBackend+AI+Engineer+Intern+%40+FlyRank+AI%3BFull-Stack+Software+Developer%3BAI+Enthusiast+%26+Builder%3BAlways+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
   <img src="./system-status-animated.svg" alt="System status: Thaspeeha.exe — online, AI/Software Engineer, BSc Computer Science, UAE" width="700"/>
 </div>
 
-Backend AI Engineer (Intern) at FlyRank AI, building APIs with Python and FastAPI. I work across the full stack — front-end interfaces, back-end services, and ML models — and enjoy turning ideas into practical solutions through hands-on projects and hackathons.
+Backend AI Engineer Intern at FlyRank AI, building APIs with Python and FastAPI. I work across the full stack — front-end interfaces, back-end services, and ML models — and enjoy turning ideas into practical solutions through hands-on projects and hackathons.
 
 I enjoy taking an idea from:
 
