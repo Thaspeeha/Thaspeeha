@@ -49,7 +49,7 @@ My current focus is on AI engineering, machine learning, backend development, au
 
 ## 03 // FIELD OPERATIONS
 
-Professional experience gained while working on real-world software and AI-related challenges.
+> **Professional experience gained while working on real-world software and AI-related challenges.**
 
 ### 🤖 AI / ML INTERN
 
@@ -162,7 +162,7 @@ A platform for monitoring, analysing and forecasting plant blooming events using
 
 ## 05 // 💻 ACADEMIC MISSIONS
 
-> Not just projects. Experiments in turning ideas into systems.
+> **Not just projects. Experiments in turning ideas into systems.**
 
 <h3>
   🧠 MISSION 08 - Explainable AI
@@ -203,6 +203,8 @@ Best model
 
 ## 06 // 🔨 SIDE MISSIONS
 
+> **Exploring ideas beyond the primary mission.**
+
 - **[Student-Performance-AI-Analysis](https://github.com/Thaspeeha/Student-Performance-AI-Analysis)**
 - **[Study-Burnout-Detector](https://github.com/Thaspeeha/Study-Burnout-Detector)**
 - **[MiniCart](https://github.com/Thaspeeha/MiniCart)**
@@ -220,7 +222,7 @@ Best model
 
 ## 08 //  MISSION ACCOLADES
 
-> Recognition collected along the way.
+> **Recognition collected along the way.**
 
 | YEAR | MISSION | OUTCOME |
 |------|---------|---------|
@@ -237,6 +239,8 @@ Best model
 
 ## 09 // TRAINING DECK
 
+> **Training for the next mission.**
+
 #### 🏆 <a href="https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/">CERTIFICATE VAULT</a>
 
 2 phases ( AWS AI Practitioner Challenge Phase (Mar - June), 'Completed' -> Future AWS AI Programmer Nanodegree Phase, 'Aug 2026 - Present' )
@@ -247,7 +251,9 @@ Best model
 
 ---
 
-## 10 // 📰 Featured & Recognized
+## 10 // 📰 MISSION SPOTLIGHT
+
+> **Signals from missions worth remembering.**
 
 - **[Samsung Innovation Campus 2025](https://www.linkedin.com/pulse/ai-office-collaboration-samsung-gulf-electronics-qjncf/?trackingId=gPlXcmdYjwdB2ev9GQpWCw%3D%3D)**, **[Highlights](https://www.linkedin.com/posts/activity-7430534029713694720--pKb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)** — Featured for participating in the Samsung Innovation Program, celebrated the graduation of 130 students from across the Emirates.
 - **[Innovation Hackathon 2025-OCT](https://canva.link/m57zg37iofy2qmn)**, **[Highlights](https://www.instagram.com/uwl_uae/p/DQEXMUnkizi/?img_index=4)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event and highlighted our experience as the finalists.
@@ -261,7 +267,7 @@ Best model
 
 ---
 
-## 12 // BEYOND THE CODE
+## 12 // BEYOND THE MISSION
 
 ☕ Debugging teaches patience better than meditation.
 
@@ -275,7 +281,7 @@ Best model
 
 ---
 
-## 13 // TRANSMISSION
+## 13 // FINAL TRANSMISSION
 
 <div align="center">
 
