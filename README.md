@@ -261,13 +261,22 @@ Best model
 
 ---
 
-## 11 // GITHUB TELEMETRY
+## 11 // 🧭 MISSION ENCOUNTERS
+
+> **Connecting with ideas, people, and opportunities beyond the mission.**
+
+- **[GISEC GLOBAL 2026,Dubai](https://lnkd.in/p/dj_9znZk)**
+- **[UWL-RAK 'Campus To Corporate' Job Fair by xtwe](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_thankyou-excited-uwljobfair26-activity-7430888256394690560-a43j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
+
+---
+
+## 12 // GITHUB TELEMETRY
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Thaspeeha&hide_border=true" /> </p>
 
 ---
 
-## 12 // BEYOND THE MISSION
+## 13 // BEYOND THE MISSION
 
 ☕ Debugging teaches patience better than meditation.
 
