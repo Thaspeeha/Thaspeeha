@@ -270,6 +270,7 @@ Best model
 
 - **[GISEC GLOBAL 2026,Dubai](https://lnkd.in/p/dj_9znZk)**
 - **[UWL-RAK 'Campus To Corporate' Job Fair by xtwe](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_thankyou-excited-uwljobfair26-activity-7430888256394690560-a43j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
+- **[Sharjah Entrepreneurship Festival 2026](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_sef26-networking-inspired-activity-7424105305967468544-eqzy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
 
 ---
 
