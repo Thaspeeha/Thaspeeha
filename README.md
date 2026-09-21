@@ -256,6 +256,7 @@ Best model
 > **Signals from missions worth remembering.**
 
 - **[Samsung Innovation Campus 2025](https://www.linkedin.com/pulse/ai-office-collaboration-samsung-gulf-electronics-qjncf/?trackingId=gPlXcmdYjwdB2ev9GQpWCw%3D%3D)**, **[Highlights](https://www.linkedin.com/posts/activity-7430534029713694720--pKb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)** — Featured for participating in the Samsung Innovation Program, celebrated the graduation of 130 students from across the Emirates.
+- **[RAK EISC 2026](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_excited-amazingteam-iwam2026-activity-7425955501693227008-6vzG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
 - **[Innovation Hackathon 2025-OCT](https://canva.link/m57zg37iofy2qmn)**, **[Highlights](https://www.instagram.com/uwl_uae/p/DQEXMUnkizi/?img_index=4)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event and highlighted our experience as the finalists.
 - **[Innovation Challenge Program and Growth Summit by First Abu Dhabi Bank 2023-DEC](https://canva.link/8k5woz9ei8153wr)**, **[Highlights](https://www.instagram.com/uwl_uae/reel/C1EvjsmtNq2/)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event and highlighted our experience as the finalists.
 
