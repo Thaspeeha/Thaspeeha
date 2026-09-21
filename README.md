@@ -256,10 +256,11 @@ Best model
 > **Signals from missions worth remembering.**
 
 - **[Samsung Innovation Campus 2025](https://www.linkedin.com/pulse/ai-office-collaboration-samsung-gulf-electronics-qjncf/?trackingId=gPlXcmdYjwdB2ev9GQpWCw%3D%3D)**, **[Highlights](https://www.linkedin.com/posts/activity-7430534029713694720--pKb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)** — Featured for participating in the Samsung Innovation Program, celebrated the graduation of 130 students from across the Emirates.
-- **[NASA Space Apps Challenge 2025](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_nasaspaceapps-thankyou-excited-activity-7401175849984593920-hs_m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**, **[Highlights](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_nasaspaceappschallenge-futureai-myamazingteam-activity-7399496282043613185-Pwhx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
+- **[NASA Space Apps Challenge 2025](https://www.linkedin.com/posts/william-ed-obryan_nasa-nasaspaceappschallenge-uae-activity-7400464443588894720-zSlm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**, **[Highlights](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_nasaspaceappschallenge-futureai-myamazingteam-activity-7399496282043613185-Pwhx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
 - **[RAK EISC 2026](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_excited-amazingteam-iwam2026-activity-7425955501693227008-6vzG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
-- **[META X Starbucks Student Hackathon 2025](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_mashallah-an-immersive-experience-by-activity-7408477738984210432-TRcx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
-- **[Innovation Hackathon 2025-OCT](https://canva.link/m57zg37iofy2qmn)**, **[Highlights](https://www.instagram.com/uwl_uae/p/DQEXMUnkizi/?img_index=4)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event and highlighted our experience as the finalists.
+- **[META X Starbucks Student Hackathon 2025,Dubai](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_mashallah-an-immersive-experience-by-activity-7408477738984210432-TRcx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
+- **[Innovation Hackathon 2025-OCT,Dubai](https://canva.link/m57zg37iofy2qmn)**, **[Highlights](https://www.instagram.com/uwl_uae/p/DQEXMUnkizi/?img_index=4)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event and highlighted our experience as the finalists.
+- **[Create Apps Championship 2025-26,Dubai](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_createappschampionship-innovation-teamwork-activity-7469063495284772864-s9LQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
 - **[Innovation Challenge Program and Growth Summit by First Abu Dhabi Bank 2023-DEC](https://canva.link/8k5woz9ei8153wr)**, **[Highlights](https://www.instagram.com/uwl_uae/reel/C1EvjsmtNq2/)** — Featured on the UWL Newsletter 'WIRE' as part of the hackathon event and highlighted our experience as the finalists.
 
 ---
@@ -271,6 +272,7 @@ Best model
 - **[GISEC GLOBAL 2026,Dubai](https://lnkd.in/p/dj_9znZk)**
 - **[UWL-RAK 'Campus To Corporate' Job Fair by xtwe](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_thankyou-excited-uwljobfair26-activity-7430888256394690560-a43j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
 - **[Sharjah Entrepreneurship Festival 2026](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_sef26-networking-inspired-activity-7424105305967468544-eqzy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
+- **[Big 5 Global 2025,Dubai](https://www.linkedin.com/posts/thaspeeha-vahithu-a139b627a_thankyou-inspirationalcoo-big5global-activity-7410770874364239872-qJF3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)**
 
 ---
 
