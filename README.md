@@ -33,16 +33,23 @@ My current focus is on AI engineering, machine learning, backend development, au
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,r" />
+  <img src="https://skillicons.dev/icons?i=tailwind,r,html,css,firebase,androidstudio,java,javascript,flask" />
 </p>
 
 <p align="center">
-  <strong>Also experienced with:</strong><br>
-  Pandas • NumPy • Scikit-Learn • Google Colab • SQL • Canva • Trello • ClickUp • Turbopack • Cursor
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,firebase,androidstudio,java,javascript,flask" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=turborepo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
 ---
