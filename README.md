@@ -33,7 +33,7 @@ My current focus is on AI engineering, machine learning, backend development, au
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,r,html,css,firebase,androidstudio,java,javascript,flask" />
+  <img src="https://skillicons.dev/icons?i=tailwind,r,firebase,androidstudio,java,javascript,flask" />
 </p>
 
 <p align="center">
