@@ -217,7 +217,7 @@ Best model
 - **[MiniCart](https://github.com/Thaspeeha/MiniCart)**
 - **[Python Project](https://github.com/Thaspeeha/Python-Project)**
 - **[codealpha tasks](https://github.com/Thaspeeha/codealpha_tasks)**
-- **[Personal Portfolio Website](https://github.com/Thaspeeha/Personal-Portfolio-Website)** - *Under Development*
+- *Personal Portfolio Website* - *Under Development*
 
 ---
 
